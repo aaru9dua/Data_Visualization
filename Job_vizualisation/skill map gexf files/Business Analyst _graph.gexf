@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Business Analyst " label="Business Analyst " />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="R" label="R" />
+      <node id="SQL" label="SQL" />
+      <node id="Python" label="Python" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Product Development" label="Product Development" />
+      <node id="Business Process" label="Business Process" />
+      <node id="Database  Software" label="Database  Software" />
+      <node id="MySQL" label="MySQL" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="Oracle" label="Oracle" />
+      <node id="Tools" label="Tools" />
+      <node id="Tableau" label="Tableau" />
+      <node id="Power BI" label="Power BI" />
+      <node id="Excel" label="Excel" />
+      <node id="ERP" label="ERP" />
+      <node id="SAS" label="SAS" />
+      <node id="JIRA" label="JIRA" />
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity" />
+      <node id="Marketing" label="Marketing" />
+      <node id="Finance" label="Finance" />
+    </nodes>
+    <edges>
+      <edge source="Business Analyst " target="Programming Language" id="0" />
+      <edge source="Business Analyst " target="Subject Knowledge" id="1" />
+      <edge source="Business Analyst " target="Database  Software" id="2" />
+      <edge source="Business Analyst " target="Cloud Software" id="3" />
+      <edge source="Business Analyst " target="Tools" id="4" />
+      <edge source="Business Analyst " target="Interdisciplinary opportunity" id="5" />
+      <edge source="Programming Language" target="R" id="6" />
+      <edge source="Programming Language" target="SQL" id="7" />
+      <edge source="Programming Language" target="Python" id="8" />
+      <edge source="Subject Knowledge" target="Product Development" id="9" />
+      <edge source="Subject Knowledge" target="Business Process" id="10" />
+      <edge source="Database  Software" target="MySQL" id="11" />
+      <edge source="Cloud Software" target="Oracle" id="12" />
+      <edge source="Tools" target="Tableau" id="13" />
+      <edge source="Tools" target="Power BI" id="14" />
+      <edge source="Tools" target="Excel" id="15" />
+      <edge source="Tools" target="ERP" id="16" />
+      <edge source="Tools" target="SAS" id="17" />
+      <edge source="Tools" target="JIRA" id="18" />
+      <edge source="Interdisciplinary opportunity" target="Marketing" id="19" />
+      <edge source="Interdisciplinary opportunity" target="Finance" id="20" />
+    </edges>
+  </graph>
+</gexf>

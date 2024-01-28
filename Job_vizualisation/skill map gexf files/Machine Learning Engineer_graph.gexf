@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Machine Learning Engineer" label="Machine Learning Engineer" />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="Python" label="Python" />
+      <node id="R" label="R" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="ML Algorithms" label="ML Algorithms" />
+      <node id="NLP" label="NLP" />
+      <node id="Predictive Modeling" label="Predictive Modeling" />
+      <node id="ML Framework" label="ML Framework" />
+      <node id="NumPy" label="NumPy" />
+      <node id="Pandas" label="Pandas" />
+      <node id="Matplotlib" label="Matplotlib" />
+      <node id="Seaborn" label="Seaborn" />
+      <node id="Scikit-Learn" label="Scikit-Learn" />
+      <node id="Keras" label="Keras" />
+      <node id="Tensorflow" label="Tensorflow" />
+      <node id="PyTorch" label="PyTorch" />
+      <node id="Database  Software" label="Database  Software" />
+      <node id="MySQL" label="MySQL" />
+      <node id="NoSQL" label="NoSQL" />
+      <node id="Big Data" label="Big Data" />
+      <node id="Spark" label="Spark" />
+      <node id="Hadoop" label="Hadoop" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="AWS" label="AWS" />
+      <node id="GCP" label="GCP" />
+      <node id="Azure" label="Azure" />
+      <node id="Tools" label="Tools" />
+      <node id="Docker" label="Docker" />
+      <node id="Kubernetes" label="Kubernetes" />
+      <node id="Jupyter Notebook" label="Jupyter Notebook" />
+      <node id="Git" label="Git" />
+      <node id="Operating System Software" label="Operating System Software" />
+      <node id="Linux" label="Linux" />
+      <node id="Windows" label="Windows" />
+      <node id="DevOps" label="DevOps" />
+      <node id="MLOps" label="MLOps" />
+    </nodes>
+    <edges>
+      <edge source="Machine Learning Engineer" target="Programming Language" id="0" />
+      <edge source="Machine Learning Engineer" target="Subject Knowledge" id="1" />
+      <edge source="Machine Learning Engineer" target="ML Framework" id="2" />
+      <edge source="Machine Learning Engineer" target="Database  Software" id="3" />
+      <edge source="Machine Learning Engineer" target="Big Data" id="4" />
+      <edge source="Machine Learning Engineer" target="Cloud Software" id="5" />
+      <edge source="Machine Learning Engineer" target="Tools" id="6" />
+      <edge source="Machine Learning Engineer" target="Operating System Software" id="7" />
+      <edge source="Machine Learning Engineer" target="DevOps" id="8" />
+      <edge source="Programming Language" target="Python" id="9" />
+      <edge source="Programming Language" target="R" id="10" />
+      <edge source="Subject Knowledge" target="ML Algorithms" id="11" />
+      <edge source="Subject Knowledge" target="NLP" id="12" />
+      <edge source="Subject Knowledge" target="Predictive Modeling" id="13" />
+      <edge source="ML Framework" target="NumPy" id="14" />
+      <edge source="ML Framework" target="Pandas" id="15" />
+      <edge source="ML Framework" target="Matplotlib" id="16" />
+      <edge source="ML Framework" target="Seaborn" id="17" />
+      <edge source="ML Framework" target="Scikit-Learn" id="18" />
+      <edge source="ML Framework" target="Keras" id="19" />
+      <edge source="ML Framework" target="Tensorflow" id="20" />
+      <edge source="ML Framework" target="PyTorch" id="21" />
+      <edge source="Database  Software" target="MySQL" id="22" />
+      <edge source="Database  Software" target="NoSQL" id="23" />
+      <edge source="Big Data" target="Spark" id="24" />
+      <edge source="Big Data" target="Hadoop" id="25" />
+      <edge source="Cloud Software" target="AWS" id="26" />
+      <edge source="Cloud Software" target="GCP" id="27" />
+      <edge source="Cloud Software" target="Azure" id="28" />
+      <edge source="Tools" target="Docker" id="29" />
+      <edge source="Tools" target="Kubernetes" id="30" />
+      <edge source="Tools" target="Jupyter Notebook" id="31" />
+      <edge source="Tools" target="Git" id="32" />
+      <edge source="Operating System Software" target="Linux" id="33" />
+      <edge source="Operating System Software" target="Windows" id="34" />
+      <edge source="DevOps" target="MLOps" id="35" />
+    </edges>
+  </graph>
+</gexf>

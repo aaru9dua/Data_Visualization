@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Network Engineer" label="Network Engineer" />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="Python" label="Python" />
+      <node id="Java" label="Java" />
+      <node id="Perl" label="Perl" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Networking" label="Networking" />
+      <node id="Routing" label="Routing" />
+      <node id="CCNA" label="CCNA" />
+      <node id="TCP" label="TCP" />
+      <node id="Network Engineering" label="Network Engineering" />
+      <node id="Network Operations Center" label="Network Operations Center" />
+      <node id="Open Systems Interconnection" label="Open Systems Interconnection" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="Azure" label="Azure" />
+      <node id="AWS" label="AWS" />
+      <node id="GCP" label="GCP" />
+      <node id="Tools" label="Tools" />
+      <node id="Wireshark" label="Wireshark" />
+      <node id="SolarWinds" label="SolarWinds" />
+      <node id="Nmap" label="Nmap" />
+      <node id="Ansible" label="Ansible" />
+      <node id="iperf" label="iperf" />
+      <node id="Operating System " label="Operating System " />
+      <node id="Unix" label="Unix" />
+      <node id="Linux" label="Linux" />
+      <node id="Windows" label="Windows" />
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity" />
+      <node id="Finance" label="Finance" />
+      <node id="Health" label="Health" />
+      <node id="Government and Defense" label="Government and Defense" />
+      <node id="Legal" label="Legal" />
+    </nodes>
+    <edges>
+      <edge source="Network Engineer" target="Programming Language" id="0" />
+      <edge source="Network Engineer" target="Subject Knowledge" id="1" />
+      <edge source="Network Engineer" target="Cloud Software" id="2" />
+      <edge source="Network Engineer" target="Tools" id="3" />
+      <edge source="Network Engineer" target="Operating System " id="4" />
+      <edge source="Network Engineer" target="Interdisciplinary opportunity" id="5" />
+      <edge source="Programming Language" target="Python" id="6" />
+      <edge source="Programming Language" target="Java" id="7" />
+      <edge source="Programming Language" target="Perl" id="8" />
+      <edge source="Subject Knowledge" target="Networking" id="9" />
+      <edge source="Subject Knowledge" target="Routing" id="10" />
+      <edge source="Subject Knowledge" target="CCNA" id="11" />
+      <edge source="Subject Knowledge" target="TCP" id="12" />
+      <edge source="Subject Knowledge" target="Network Engineering" id="13" />
+      <edge source="Subject Knowledge" target="Network Operations Center" id="14" />
+      <edge source="Subject Knowledge" target="Open Systems Interconnection" id="15" />
+      <edge source="Cloud Software" target="Azure" id="16" />
+      <edge source="Cloud Software" target="AWS" id="17" />
+      <edge source="Cloud Software" target="GCP" id="18" />
+      <edge source="Tools" target="Wireshark" id="19" />
+      <edge source="Tools" target="SolarWinds" id="20" />
+      <edge source="Tools" target="Nmap" id="21" />
+      <edge source="Tools" target="Ansible" id="22" />
+      <edge source="Tools" target="iperf" id="23" />
+      <edge source="Operating System " target="Unix" id="24" />
+      <edge source="Operating System " target="Linux" id="25" />
+      <edge source="Operating System " target="Windows" id="26" />
+      <edge source="Interdisciplinary opportunity" target="Finance" id="27" />
+      <edge source="Interdisciplinary opportunity" target="Health" id="28" />
+      <edge source="Interdisciplinary opportunity" target="Government and Defense" id="29" />
+      <edge source="Interdisciplinary opportunity" target="Legal" id="30" />
+    </edges>
+  </graph>
+</gexf>

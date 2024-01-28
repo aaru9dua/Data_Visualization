@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Software Engineer" label="Software Engineer">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-17.0802" y="79.09857"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-457.5114" y="-419.54913"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="C++" label="C++">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-347.69623" y="-648.98303"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-761.9905" y="-431.11777"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Java" label="Java">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-405.91202" y="-751.90045"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="JavaScript" label="JavaScript">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-170.46628" y="-576.6302"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Go" label="Go">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-494.06253" y="-607.2054"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Kotlin" label="Kotlin">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-200.61273" y="-827.8488"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="HTML" label="HTML">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-633.69824" y="-671.5915"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="CSS" label="CSS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-757.92725" y="-580.0333"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="664.3291" y="-138.29955"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Application Design" label="Application Design">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="990.6291" y="-360.79843"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Software Development Life Cycle" label="Software Development Life Cycle">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="821.9691" y="-477.27112"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Solution Development" label="Solution Development">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="622.07" y="-415.24725"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Front-end Development" label="Front-end Development">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="832.30597" y="13.544613"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Backend-Development" label="Backend-Development">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="960.2984" y="-86.98158"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="REST" label="REST">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="999.872" y="-212.69849"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Agile" label="Agile">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="528.4118" y="-310.48514"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Data Structures" label="Data Structures">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="695.6909" y="96.43466"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Database  Software" label="Database  Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="21.25"/>
+        <viz:position x="-611.1319" y="87.94337"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Microsoft SQL Server" label="Microsoft SQL Server">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-574.3163" y="-74.93201"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Oracle Database" label="Oracle Database">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-936.894" y="77.46119"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="MongoDB" label="MongoDB">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-811.7761" y="220.26361"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Cassandra" label="Cassandra">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-719.99664" y="-145.16037"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Redis" label="Redis">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-858.0054" y="-66.55647"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Elasticsearch" label="Elasticsearch">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-649.57904" y="225.64803"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Cloud Software" label="Cloud Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="15.625"/>
+        <viz:position x="225.37134" y="158.99402"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="297.86298" y="125.59124"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="275.0711" y="243.90256"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="GCS" label="GCS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="466.43018" y="242.41205"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="13.75"/>
+        <viz:position x="-161.26181" y="212.47144"/>
+        <viz:color r="211" g="179" b="176"/>
+      </node>
+      <node id="Git" label="Git">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-317.48087" y="346.16205"/>
+        <viz:color r="211" g="179" b="176"/>
+      </node>
+      <node id="Gradle" label="Gradle">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-406.3558" y="212.46161"/>
+        <viz:color r="211" g="179" b="176"/>
+      </node>
+      <node id="Operating System " label="Operating System ">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="17.5"/>
+        <viz:position x="227.1527" y="514.8208"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Ubuntu" label="Ubuntu">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="311.36258" y="721.69745"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Windows" label="Windows">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="196.20903" y="640.08417"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="MacOS" label="MacOS">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="463.4436" y="530.67914"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Debian" label="Debian">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="426.3323" y="684.1602"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="15.625"/>
+        <viz:position x="36.12811" y="-160.03844"/>
+        <viz:color r="0" g="189" b="148"/>
+      </node>
+      <node id="Fintech" label="Fintech">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-38.504555" y="-285.32935"/>
+        <viz:color r="0" g="189" b="148"/>
+      </node>
+      <node id="Health" label="Health">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="158.77042" y="-224.61285"/>
+        <viz:color r="0" g="189" b="148"/>
+      </node>
+      <node id="Entertainment" label="Entertainment">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="105.48816" y="-354.86047"/>
+        <viz:color r="0" g="189" b="148"/>
+      </node>
+      <node id="Devops" label="Devops">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="19.375"/>
+        <viz:position x="-68.31441" y="467.79767"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+      <node id="Jenkins" label="Jenkins">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-14.940292" y="710.9595"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+      <node id="Kubernetes" label="Kubernetes">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-250.94664" y="617.6157"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+      <node id="Docker" label="Docker">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-328.03293" y="558.3567"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+      <node id="Ansible" label="Ansible">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-203.53867" y="745.1329"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Software Engineer" target="Programming Language"/>
+      <edge id="1" source="Software Engineer" target="Subject Knowledge"/>
+      <edge id="2" source="Software Engineer" target="Database  Software"/>
+      <edge id="3" source="Software Engineer" target="Cloud Software"/>
+      <edge id="4" source="Software Engineer" target="Tools"/>
+      <edge id="5" source="Software Engineer" target="Operating System "/>
+      <edge id="6" source="Software Engineer" target="Interdisciplinary opportunity"/>
+      <edge id="7" source="Software Engineer" target="Devops"/>
+      <edge id="8" source="Programming Language" target="C++"/>
+      <edge id="9" source="Programming Language" target="Python"/>
+      <edge id="10" source="Programming Language" target="Java"/>
+      <edge id="11" source="Programming Language" target="JavaScript"/>
+      <edge id="12" source="Programming Language" target="Go"/>
+      <edge id="13" source="Programming Language" target="Kotlin"/>
+      <edge id="14" source="Programming Language" target="HTML"/>
+      <edge id="15" source="Programming Language" target="CSS"/>
+      <edge id="16" source="Subject Knowledge" target="Application Design"/>
+      <edge id="17" source="Subject Knowledge" target="Software Development Life Cycle"/>
+      <edge id="18" source="Subject Knowledge" target="Solution Development"/>
+      <edge id="19" source="Subject Knowledge" target="Front-end Development"/>
+      <edge id="20" source="Subject Knowledge" target="Backend-Development"/>
+      <edge id="21" source="Subject Knowledge" target="REST"/>
+      <edge id="22" source="Subject Knowledge" target="Agile"/>
+      <edge id="23" source="Subject Knowledge" target="Data Structures"/>
+      <edge id="24" source="Database  Software" target="Microsoft SQL Server"/>
+      <edge id="25" source="Database  Software" target="Oracle Database"/>
+      <edge id="26" source="Database  Software" target="MongoDB"/>
+      <edge id="27" source="Database  Software" target="Cassandra"/>
+      <edge id="28" source="Database  Software" target="Redis"/>
+      <edge id="29" source="Database  Software" target="Elasticsearch"/>
+      <edge id="30" source="Cloud Software" target="Azure"/>
+      <edge id="31" source="Cloud Software" target="AWS"/>
+      <edge id="32" source="Cloud Software" target="GCS"/>
+      <edge id="33" source="Tools" target="Git"/>
+      <edge id="34" source="Tools" target="Gradle"/>
+      <edge id="35" source="Operating System " target="Ubuntu"/>
+      <edge id="36" source="Operating System " target="Windows"/>
+      <edge id="37" source="Operating System " target="MacOS"/>
+      <edge id="38" source="Operating System " target="Debian"/>
+      <edge id="39" source="Interdisciplinary opportunity" target="Fintech"/>
+      <edge id="40" source="Interdisciplinary opportunity" target="Health"/>
+      <edge id="41" source="Interdisciplinary opportunity" target="Entertainment"/>
+      <edge id="42" source="Devops" target="Jenkins"/>
+      <edge id="43" source="Devops" target="Kubernetes"/>
+      <edge id="44" source="Devops" target="Docker"/>
+      <edge id="45" source="Devops" target="Ansible"/>
+      <edge id="46" source="Devops" target="Git"/>
+    </edges>
+  </graph>
+</gexf>

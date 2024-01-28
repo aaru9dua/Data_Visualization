@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Data Analyst " label="Data Analyst ">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-175.96452" y="-86.517845"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="15.0"/>
+        <viz:position x="-345.41034" y="322.13437"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-313.00674" y="441.05093"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-455.30206" y="389.6443"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-400.86304" y="457.72098"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="13.333333"/>
+        <viz:position x="15.223829" y="-330.17194"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Data Modeling" label="Data Modeling">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="117.1982" y="-392.23007"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Data Mining" label="Data Mining">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="54.02229" y="-451.8724"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Database  Software" label="Database  Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="13.333333"/>
+        <viz:position x="-246.52995" y="-454.10565"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="MySQL" label="MySQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-310.45184" y="-570.75446"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="NoSQL" label="NoSQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-224.77336" y="-585.9452"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="510.33386" y="192.32495"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Spark" label="Spark">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="476.89075" y="351.17627"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Tableau" label="Tableau">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="498.7541" y="52.229076"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Excel" label="Excel">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="401.57053" y="279.61728"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="SSRS" label="SSRS">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="561.7712" y="360.96402"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="SSIS" label="SSIS">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="630.7594" y="322.04993"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="PowerBI" label="PowerBI">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="667.36145" y="109.062126"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="CRM" label="CRM">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="679.75006" y="262.2161"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Apache" label="Apache">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="601.2671" y="55.735554"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Word" label="Word">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="687.5862" y="185.4083"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Operating System Software" label="Operating System Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="13.333333"/>
+        <viz:position x="-489.95374" y="-282.7609"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Windows" label="Windows">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-573.2276" y="-385.57925"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-619.40894" y="-312.2723"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="13.333333"/>
+        <viz:position x="-504.33582" y="3.132598"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="Health insurance" label="Health insurance">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-608.88556" y="74.5001"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="Data Goverance" label="Data Goverance">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-615.3707" y="-85.93377"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Data Analyst " target="Programming Language"/>
+      <edge id="1" source="Data Analyst " target="Subject Knowledge"/>
+      <edge id="2" source="Data Analyst " target="Database  Software"/>
+      <edge id="3" source="Data Analyst " target="Tools"/>
+      <edge id="4" source="Data Analyst " target="Operating System Software"/>
+      <edge id="5" source="Data Analyst " target="Interdisciplinary opportunity"/>
+      <edge id="6" source="Programming Language" target="Python"/>
+      <edge id="7" source="Programming Language" target="R"/>
+      <edge id="8" source="Programming Language" target="SQL"/>
+      <edge id="9" source="Subject Knowledge" target="Data Modeling"/>
+      <edge id="10" source="Subject Knowledge" target="Data Mining"/>
+      <edge id="11" source="Database  Software" target="MySQL"/>
+      <edge id="12" source="Database  Software" target="NoSQL"/>
+      <edge id="13" source="Tools" target="Spark"/>
+      <edge id="14" source="Tools" target="Tableau"/>
+      <edge id="15" source="Tools" target="Excel"/>
+      <edge id="16" source="Tools" target="SSRS"/>
+      <edge id="17" source="Tools" target="SSIS"/>
+      <edge id="18" source="Tools" target="PowerBI"/>
+      <edge id="19" source="Tools" target="CRM"/>
+      <edge id="20" source="Tools" target="Apache"/>
+      <edge id="21" source="Tools" target="Word"/>
+      <edge id="22" source="Operating System Software" target="Windows"/>
+      <edge id="23" source="Operating System Software" target="Linux"/>
+      <edge id="24" source="Interdisciplinary opportunity" target="Health insurance"/>
+      <edge id="25" source="Interdisciplinary opportunity" target="Data Goverance"/>
+    </edges>
+  </graph>
+</gexf>

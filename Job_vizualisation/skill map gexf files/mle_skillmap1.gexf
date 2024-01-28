@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Machine Learning Engineer" label="Machine Learning Engineer">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="8.610539" y="-107.75518"/>
+        <viz:color r="219" g="221" b="97"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="13.111111"/>
+        <viz:position x="242.44194" y="-172.32654"/>
+        <viz:color r="255" g="192" b="114"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="357.42337" y="-257.828"/>
+        <viz:color r="255" g="192" b="114"/>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="367.35495" y="-159.84195"/>
+        <viz:color r="255" g="192" b="114"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="14.666667"/>
+        <viz:position x="274.26654" y="-475.38007"/>
+        <viz:color r="232" g="198" b="253"/>
+      </node>
+      <node id="ML Algorithms" label="ML Algorithms">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="347.20844" y="-575.62396"/>
+        <viz:color r="232" g="198" b="253"/>
+      </node>
+      <node id="NLP" label="NLP">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="291.01953" y="-683.9144"/>
+        <viz:color r="232" g="198" b="253"/>
+      </node>
+      <node id="Predictive Modeling" label="Predictive Modeling">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="492.44165" y="-546.0226"/>
+        <viz:color r="232" g="198" b="253"/>
+      </node>
+      <node id="ML Framework" label="ML Framework">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="22.444445"/>
+        <viz:position x="-107.91184" y="413.7256"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="NumPy" label="NumPy">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="114.606514" y="637.7512"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Pandas" label="Pandas">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-190.04405" y="671.99475"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Matplotlib" label="Matplotlib">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-310.62347" y="528.2523"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Seaborn" label="Seaborn">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-45.12796" y="615.664"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Scikit-Learn" label="Scikit-Learn">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="71.429504" y="488.0857"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Keras" label="Keras">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-98.83768" y="750.79913"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Tensorflow" label="Tensorflow">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-293.51935" y="414.62753"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="PyTorch" label="PyTorch">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-316.5202" y="716.4957"/>
+        <viz:color r="118" g="227" b="210"/>
+      </node>
+      <node id="Database  Software" label="Database  Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="13.111111"/>
+        <viz:position x="-180.95682" y="-340.04556"/>
+        <viz:color r="158" g="216" b="249"/>
+      </node>
+      <node id="MySQL" label="MySQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-218.73407" y="-474.47296"/>
+        <viz:color r="158" g="216" b="249"/>
+      </node>
+      <node id="NoSQL" label="NoSQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-320.05716" y="-417.70612"/>
+        <viz:color r="158" g="216" b="249"/>
+      </node>
+      <node id="Big Data" label="Big Data">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="13.111111"/>
+        <viz:position x="-210.60864" y="75.08591"/>
+        <viz:color r="255" g="180" b="215"/>
+      </node>
+      <node id="Spark" label="Spark">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-265.17407" y="204.92487"/>
+        <viz:color r="255" g="180" b="215"/>
+      </node>
+      <node id="Hadoop" label="Hadoop">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-341.64117" y="60.645187"/>
+        <viz:color r="255" g="180" b="215"/>
+      </node>
+      <node id="Cloud Software" label="Cloud Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="14.666667"/>
+        <viz:position x="-426.4606" y="-216.3705"/>
+        <viz:color r="144" g="230" b="152"/>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-522.91705" y="-335.918"/>
+        <viz:color r="144" g="230" b="152"/>
+      </node>
+      <node id="GCP" label="GCP">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-654.1699" y="-100.383286"/>
+        <viz:color r="144" g="230" b="152"/>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-718.06647" y="-249.26208"/>
+        <viz:color r="144" g="230" b="152"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="16.222221"/>
+        <viz:position x="479.5982" y="73.61294"/>
+        <viz:color r="255" g="175" b="161"/>
+      </node>
+      <node id="Docker" label="Docker">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="666.27875" y="85.59448"/>
+        <viz:color r="255" g="175" b="161"/>
+      </node>
+      <node id="Kubernetes" label="Kubernetes">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="597.7236" y="220.62865"/>
+        <viz:color r="255" g="175" b="161"/>
+      </node>
+      <node id="Jupyter Notebook" label="Jupyter Notebook">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="435.1095" y="239.62341"/>
+        <viz:color r="255" g="175" b="161"/>
+      </node>
+      <node id="Git" label="Git">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="566.17633" y="-35.959877"/>
+        <viz:color r="255" g="175" b="161"/>
+      </node>
+      <node id="Operating System Software" label="Operating System Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="13.111111"/>
+        <viz:position x="-0.5146724" y="-412.1843"/>
+        <viz:color r="219" g="221" b="97"/>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="98.49601" y="-533.51697"/>
+        <viz:color r="219" g="221" b="97"/>
+      </node>
+      <node id="Windows" label="Windows">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-40.981293" y="-541.92633"/>
+        <viz:color r="219" g="221" b="97"/>
+      </node>
+      <node id="DevOps" label="DevOps">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"/>
+        </attvalues>
+        <viz:size value="11.555555"/>
+        <viz:position x="73.85959" y="40.719135"/>
+        <viz:color r="214" g="202" b="128"/>
+      </node>
+      <node id="MLOps" label="MLOps">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="108.09747" y="116.40876"/>
+        <viz:color r="214" g="202" b="128"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Machine Learning Engineer" target="Programming Language"/>
+      <edge id="1" source="Machine Learning Engineer" target="Subject Knowledge"/>
+      <edge id="2" source="Machine Learning Engineer" target="ML Framework"/>
+      <edge id="3" source="Machine Learning Engineer" target="Database  Software"/>
+      <edge id="4" source="Machine Learning Engineer" target="Big Data"/>
+      <edge id="5" source="Machine Learning Engineer" target="Cloud Software"/>
+      <edge id="6" source="Machine Learning Engineer" target="Tools"/>
+      <edge id="7" source="Machine Learning Engineer" target="Operating System Software"/>
+      <edge id="8" source="Machine Learning Engineer" target="DevOps"/>
+      <edge id="9" source="Programming Language" target="Python"/>
+      <edge id="10" source="Programming Language" target="R"/>
+      <edge id="11" source="Subject Knowledge" target="ML Algorithms"/>
+      <edge id="12" source="Subject Knowledge" target="NLP"/>
+      <edge id="13" source="Subject Knowledge" target="Predictive Modeling"/>
+      <edge id="14" source="ML Framework" target="NumPy"/>
+      <edge id="15" source="ML Framework" target="Pandas"/>
+      <edge id="16" source="ML Framework" target="Matplotlib"/>
+      <edge id="17" source="ML Framework" target="Seaborn"/>
+      <edge id="18" source="ML Framework" target="Scikit-Learn"/>
+      <edge id="19" source="ML Framework" target="Keras"/>
+      <edge id="20" source="ML Framework" target="Tensorflow"/>
+      <edge id="21" source="ML Framework" target="PyTorch"/>
+      <edge id="22" source="Database  Software" target="MySQL"/>
+      <edge id="23" source="Database  Software" target="NoSQL"/>
+      <edge id="24" source="Big Data" target="Spark"/>
+      <edge id="25" source="Big Data" target="Hadoop"/>
+      <edge id="26" source="Cloud Software" target="AWS"/>
+      <edge id="27" source="Cloud Software" target="GCP"/>
+      <edge id="28" source="Cloud Software" target="Azure"/>
+      <edge id="29" source="Tools" target="Docker"/>
+      <edge id="30" source="Tools" target="Kubernetes"/>
+      <edge id="31" source="Tools" target="Jupyter Notebook"/>
+      <edge id="32" source="Tools" target="Git"/>
+      <edge id="33" source="Operating System Software" target="Linux"/>
+      <edge id="34" source="Operating System Software" target="Windows"/>
+      <edge id="35" source="DevOps" target="MLOps"/>
+    </edges>
+  </graph>
+</gexf>

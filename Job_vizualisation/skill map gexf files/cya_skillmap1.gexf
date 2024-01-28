@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Cybersecurity Analyst" label="Cybersecurity Analyst">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="21.666668"/>
+        <viz:position x="-84.71278" y="37.26066"/>
+        <viz:color r="0" g="175" b="135"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="317.85822" y="42.96495"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Java" label="Java">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="561.53845" y="-117.173355"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="JavaScript" label="JavaScript">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="436.0041" y="174.29144"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="415.5602" y="-77.150764"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="429.4165" y="298.43323"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="PHP" label="PHP">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="588.8336" y="138.01071"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="C" label="C">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="520.148" y="30.930984"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="14.550526" y="-422.7299"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Information Security" label="Information Security">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="250.83887" y="-678.0413"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Disaster Recovery" label="Disaster Recovery">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-33.159397" y="-750.0872"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Security Operations Center (SOC)" label="Security Operations Center (SOC)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="89.049835" y="-536.323"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Endpoint Security" label="Endpoint Security">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="67.096756" y="-673.7102"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Firewall Management" label="Firewall Management">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-169.50488" y="-615.3873"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="IPV6" label="IPV6">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="278.2476" y="-551.7518"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="IPV4" label="IPV4">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-109.84628" y="-476.4372"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="DNS" label="DNS">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-63.913506" y="-605.25726"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Automation" label="Automation">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="372.69107" y="-448.79556"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="Cloud Software" label="Cloud Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="16.666666"/>
+        <viz:position x="-324.91513" y="-138.35742"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-536.69635" y="-164.22987"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-507.86868" y="-291.55902"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
+      <node id="GCP" label="GCP">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-436.07974" y="-313.51758"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
+      <node id="Azure Sentinel" label="Azure Sentinel">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-545.12085" y="-230.61446"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="23.333332"/>
+        <viz:position x="26.069176" y="480.65494"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Nessus" label="Nessus">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-65.22363" y="869.67554"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Burp Suite" label="Burp Suite">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-229.9146" y="700.6724"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Nmap" label="Nmap">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="146.73141" y="814.3821"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Sysinternals Suite" label="Sysinternals Suite">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="184.31209" y="700.85645"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="VMWare" label="VMWare">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="349.65082" y="703.90314"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Powershell" label="Powershell">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="38.2942" y="638.164"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Selenium" label="Selenium">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-78.5288" y="681.7992"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="SIEM" label="SIEM">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="221.22833" y="532.29553"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
+      <node id="Operating System " label="Operating System ">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="15.0"/>
+        <viz:position x="-252.23117" y="269.547"/>
+        <viz:color r="255" g="93" b="133"/>
+      </node>
+      <node id="Kali Linux" label="Kali Linux">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-392.95547" y="346.6776"/>
+        <viz:color r="255" g="93" b="133"/>
+      </node>
+      <node id="Ubuntu" label="Ubuntu">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-351.3739" y="399.30707"/>
+        <viz:color r="255" g="93" b="133"/>
+      </node>
+      <node id="CentOS" label="CentOS">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-288.62402" y="423.58408"/>
+        <viz:color r="255" g="93" b="133"/>
+      </node>
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="16.666666"/>
+        <viz:position x="-473.4396" y="121.6576"/>
+        <viz:color r="128" g="107" b="104"/>
+      </node>
+      <node id="Finance" label="Finance">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-733.98444" y="122.92978"/>
+        <viz:color r="128" g="107" b="104"/>
+      </node>
+      <node id="Health" label="Health">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-684.00433" y="298.16226"/>
+        <viz:color r="128" g="107" b="104"/>
+      </node>
+      <node id="Government and Defense" label="Government and Defense">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-634.4105" y="189.52411"/>
+        <viz:color r="128" g="107" b="104"/>
+      </node>
+      <node id="Legal" label="Legal">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-594.09827" y="40.424477"/>
+        <viz:color r="128" g="107" b="104"/>
+      </node>
+      <node id="Devops" label="Devops">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="11.666667"/>
+        <viz:position x="18.612282" y="-33.72219"/>
+        <viz:color r="0" g="175" b="135"/>
+      </node>
+      <node id="Docker" label="Docker">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="110.26543" y="-104.409935"/>
+        <viz:color r="0" g="175" b="135"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Cybersecurity Analyst" target="Programming Language"/>
+      <edge id="1" source="Cybersecurity Analyst" target="Subject Knowledge"/>
+      <edge id="2" source="Cybersecurity Analyst" target="Cloud Software"/>
+      <edge id="3" source="Cybersecurity Analyst" target="Tools"/>
+      <edge id="4" source="Cybersecurity Analyst" target="Operating System "/>
+      <edge id="5" source="Cybersecurity Analyst" target="Interdisciplinary opportunity"/>
+      <edge id="6" source="Cybersecurity Analyst" target="Devops"/>
+      <edge id="7" source="Programming Language" target="Java"/>
+      <edge id="8" source="Programming Language" target="JavaScript"/>
+      <edge id="9" source="Programming Language" target="Python"/>
+      <edge id="10" source="Programming Language" target="SQL"/>
+      <edge id="11" source="Programming Language" target="PHP"/>
+      <edge id="12" source="Programming Language" target="C"/>
+      <edge id="13" source="Subject Knowledge" target="Information Security"/>
+      <edge id="14" source="Subject Knowledge" target="Disaster Recovery"/>
+      <edge id="15" source="Subject Knowledge" target="Security Operations Center (SOC)"/>
+      <edge id="16" source="Subject Knowledge" target="Endpoint Security"/>
+      <edge id="17" source="Subject Knowledge" target="Firewall Management"/>
+      <edge id="18" source="Subject Knowledge" target="IPV6"/>
+      <edge id="19" source="Subject Knowledge" target="IPV4"/>
+      <edge id="20" source="Subject Knowledge" target="DNS"/>
+      <edge id="21" source="Subject Knowledge" target="Automation"/>
+      <edge id="22" source="Cloud Software" target="Azure"/>
+      <edge id="23" source="Cloud Software" target="AWS"/>
+      <edge id="24" source="Cloud Software" target="GCP"/>
+      <edge id="25" source="Cloud Software" target="Azure Sentinel"/>
+      <edge id="26" source="Tools" target="Nessus"/>
+      <edge id="27" source="Tools" target="Burp Suite"/>
+      <edge id="28" source="Tools" target="Nmap"/>
+      <edge id="29" source="Tools" target="Sysinternals Suite"/>
+      <edge id="30" source="Tools" target="VMWare"/>
+      <edge id="31" source="Tools" target="Powershell"/>
+      <edge id="32" source="Tools" target="Selenium"/>
+      <edge id="33" source="Tools" target="SIEM"/>
+      <edge id="34" source="Operating System " target="Kali Linux"/>
+      <edge id="35" source="Operating System " target="Ubuntu"/>
+      <edge id="36" source="Operating System " target="CentOS"/>
+      <edge id="37" source="Interdisciplinary opportunity" target="Finance"/>
+      <edge id="38" source="Interdisciplinary opportunity" target="Health"/>
+      <edge id="39" source="Interdisciplinary opportunity" target="Government and Defense"/>
+      <edge id="40" source="Interdisciplinary opportunity" target="Legal"/>
+      <edge id="41" source="Devops" target="Docker"/>
+    </edges>
+  </graph>
+</gexf>

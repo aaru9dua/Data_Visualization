@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Data Engineer" label="Data Engineer" />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="Python" label="Python" />
+      <node id="Java" label="Java" />
+      <node id="SQL" label="SQL" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Business Intelligence" label="Business Intelligence" />
+      <node id="Data warehousing" label="Data warehousing" />
+      <node id="Data Pipelines" label="Data Pipelines" />
+      <node id="ETL" label="ETL" />
+      <node id="Cloud Architecture" label="Cloud Architecture" />
+      <node id="ML Framework" label="ML Framework" />
+      <node id="Scikit-Learn" label="Scikit-Learn" />
+      <node id="Pandas" label="Pandas" />
+      <node id="Numpy" label="Numpy" />
+      <node id="Database  Software" label="Database  Software" />
+      <node id="MySQL" label="MySQL" />
+      <node id="NoSQL" label="NoSQL" />
+      <node id="Postgres" label="Postgres" />
+      <node id="MongoDB" label="MongoDB" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="AWS" label="AWS" />
+      <node id="GCP" label="GCP" />
+      <node id="Azure" label="Azure" />
+      <node id="Databricks" label="Databricks" />
+      <node id="Tools" label="Tools" />
+      <node id="Redshift" label="Redshift" />
+      <node id="Snowflake" label="Snowflake" />
+      <node id="BigQuery" label="BigQuery" />
+      <node id="Power BI" label="Power BI" />
+      <node id="Tableau" label="Tableau" />
+      <node id="Airflow" label="Airflow" />
+      <node id="Docker" label="Docker" />
+      <node id="Kubernetes" label="Kubernetes" />
+      <node id="Operating System Software" label="Operating System Software" />
+      <node id="Linux" label="Linux" />
+      <node id="Windows" label="Windows" />
+    </nodes>
+    <edges>
+      <edge source="Data Engineer" target="Programming Language" id="0" />
+      <edge source="Data Engineer" target="Subject Knowledge" id="1" />
+      <edge source="Data Engineer" target="ML Framework" id="2" />
+      <edge source="Data Engineer" target="Database  Software" id="3" />
+      <edge source="Data Engineer" target="Cloud Software" id="4" />
+      <edge source="Data Engineer" target="Tools" id="5" />
+      <edge source="Data Engineer" target="Operating System Software" id="6" />
+      <edge source="Programming Language" target="Python" id="7" />
+      <edge source="Programming Language" target="Java" id="8" />
+      <edge source="Programming Language" target="SQL" id="9" />
+      <edge source="Subject Knowledge" target="Business Intelligence" id="10" />
+      <edge source="Subject Knowledge" target="Data warehousing" id="11" />
+      <edge source="Subject Knowledge" target="Data Pipelines" id="12" />
+      <edge source="Subject Knowledge" target="ETL" id="13" />
+      <edge source="Subject Knowledge" target="Cloud Architecture" id="14" />
+      <edge source="ML Framework" target="Scikit-Learn" id="15" />
+      <edge source="ML Framework" target="Pandas" id="16" />
+      <edge source="ML Framework" target="Numpy" id="17" />
+      <edge source="Database  Software" target="MySQL" id="18" />
+      <edge source="Database  Software" target="NoSQL" id="19" />
+      <edge source="Database  Software" target="Postgres" id="20" />
+      <edge source="Database  Software" target="MongoDB" id="21" />
+      <edge source="Cloud Software" target="AWS" id="22" />
+      <edge source="Cloud Software" target="GCP" id="23" />
+      <edge source="Cloud Software" target="Azure" id="24" />
+      <edge source="Cloud Software" target="Databricks" id="25" />
+      <edge source="Tools" target="Redshift" id="26" />
+      <edge source="Tools" target="Snowflake" id="27" />
+      <edge source="Tools" target="BigQuery" id="28" />
+      <edge source="Tools" target="Power BI" id="29" />
+      <edge source="Tools" target="Tableau" id="30" />
+      <edge source="Tools" target="Airflow" id="31" />
+      <edge source="Tools" target="Docker" id="32" />
+      <edge source="Tools" target="Kubernetes" id="33" />
+      <edge source="Operating System Software" target="Linux" id="34" />
+      <edge source="Operating System Software" target="Windows" id="35" />
+    </edges>
+  </graph>
+</gexf>

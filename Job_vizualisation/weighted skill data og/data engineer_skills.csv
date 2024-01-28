@@ -1,0 +1,670 @@
+Element,Count
+python,253
+it skills,159
+big data,141
+sql,137
+azure,119
+spark,118
+scala,98
+hadoop,84
+hive,78
+aws,78
+java,76
+cloud,76
+etl,76
+data engineering,66
+azure data factory,60
+pyspark,56
+devops,55
+agile,55
+data warehousing,53
+data modeling,42
+communication,38
+airflow,35
+azure databricks,35
+machine learning,34
+oracle,34
+kafka,32
+rdbms,29
+unix,28
+troubleshooting,27
+snowflake,26
+redshift,25
+azure data lake,25
+monitoring,25
+sql server,24
+teradata,24
+business intelligence,24
+gcp,24
+nosql,24
+dataproc,24
+debugging,23
+talend,23
+testing,22
+power bi,22
+coding,21
+aws glue,20
+data analysis,19
+emr,19
+mysql,19
+software development,18
+unix shell scripting,18
+aws lambda,18
+linux,18
+analytics,16
+databricks,16
+data management,15
+big data development,15
+business analysis,15
+azure data,14
+cassandra,14
+tableau,14
+jenkins,14
+informatica,13
+microsoft,13
+data architecture,13
+data pipeline,13
+s3,13
+data science,13
+aws services,12
+spark sql,12
+data provisioning,12
+data migration,12
+hdfs,12
+datalake,11
+metadata,11
+postgresql,11
+mongodb,11
+consulting,11
+athena,11
+data engineer,11
+data cleansing,11
+adf,10
+architecture,10
+interpersonal skills,10
+analytical,10
+paas,10
+data processing,9
+data architect,9
+sparkql,9
+cosmos,9
+automation,9
+data quality,9
+impala,9
+agile methodologies,9
+ssis,9
+data structures,8
+jira,8
+bigquery,8
+apis,8
+computer science,8
+ci / cd,8
+hadoop & cicd,8
+extract,8
+c#,8
+shell scripting,8
+nifi,8
+data bricks,8
+elastic search,8
+livy,8
+transform,7
+apache beam,7
+luigi,7
+kubernetes,7
+data analytics,7
+data ingestion,7
+google cloud,7
+sparksql,7
+data engineer ii,7
+snowsql,7
+oozie,7
+dynamodb,7
+performance tuning,7
+data integration,7
+data mining,7
+data warehouse,7
+azure sql,7
+time management,6
+presto,6
+ab initio,6
+dataflow,6
+redis,6
+glue,6
+cloudera,6
+written,6
+r,6
+hpe vertica,6
+data modelling,6
+looker,6
+amazon redshift,6
+azure sql server,6
+github,6
+azure cloud,6
+python/nodejs/java,6
+redshift aws,6
+xml,5
+sql database,5
+prototype,5
+data lake,5
+c,5
+db2,5
+pefs,5
+ci methodology,5
+open source,5
+data extraction,5
+sqs,5
+pytorch,5
+ci/cd pipeline,5
+neo4j,5
+azure data lake storage,5
+sql db,5
+bigdata,5
+couchbase db,5
+docker,5
+database architecture,5
+cloud services,5
+sql scripting,5
+couchbase,5
+plsql,5
+load,5
+aws cloud services,5
+analyse,4
+product management,4
+stakeholder management,4
+predictive modelling,4
+product import engine,4
+big data analytics,4
+azure analysis services,4
+cloud infrastructure,4
+mongo,4
+cognos,4
+cloud sql,4
+data scientists,4
+azure cosmos db,4
+mssql,4
+google cloud sql,4
+hue,4
+autocad,4
+cyber security,4
+stored procedures,4
+gcp ace,4
+version control,4
+mapr,4
+hortonworks,4
+microsoft excel,4
+hyperion,4
+artificial intelligence,4
+apache,4
+data validation,4
+azure sql db,4
+impact - analysis,4
+technical data,4
+bigdata gcp,4
+datawarehouse,4
+data governance,4
+ec2,4
+azure data bricks,4
+powerbi,4
+azure data analytics,4
+datacenter,4
+big data engineering,4
+apache airflow,4
+datastage,4
+sqoop,4
+sharepoint,4
+dask,4
+ms sql,4
+python scripting,4
+manager technology,4
+spark dataframe,4
+t - sql,4
+apache spark,4
+dba,4
+iaas,4
+pandas,4
+rest,4
+and load,3
+sap,3
+mpp,3
+administration,3
+storage engineering,3
+automotive,3
+synapse,3
+ms sql server,3
+algorithms,3
+json,3
+hive db,3
+datafactory,3
+git,3
+data markup scripting,3
+hadoop development,3
+powershell,3
+usage,3
+talent acquisition,3
+databricks azure data factory,3
+banking,3
+asset management,3
+waterfall,3
+ai,3
+mulesoft,3
+sql warehouse,3
+data,3
+azure datafactory,3
+react.js,3
+hbase,3
+computer vision,3
+image data analysis,3
+spark streaming,3
+cloud computing,3
+technical data processes,3
+website management,3
+azure data warehouse,3
+ibm db2,3
+programming language,3
+quality assurance,3
+unix scripting,3
+sas base,3
+sas programming,3
+macros,3
+maintenance management system,3
+idms,3
+six sigma,3
+spi-intools,3
+sap pm,3
+lean,3
+instrumentation,3
+information management,3
+sql programming,3
+javascript,3
+soap,3
+api,3
+design development,3
+engineering management,3
+azure devops,3
+adls,3
+sql queries,3
+tdd,3
+mlops,3
+redshiftsql,3
+spring boot,3
+verbal,3
+apache nifi,3
+keras,3
+communication skills,3
+rest api,3
+documentation,3
+content management,3
+scrum,3
+docker containers,2
+production support,2
+matillion,2
+snowflake db,2
+mpp database,2
+gis,2
+high level design,2
+schema,2
+kubeflow pipelines,2
+document management,2
+gitlab,2
+tensorflow,2
+algorithm,2
+microsoft sql,2
+nltk,2
+scalability,2
+eventhub,2
+mapreduce,2
+ci/cd,2
+synapse analytics,2
+sql databases,2
+big query,2
+data project,2
+postgres,2
+nlp,2
+communications,2
+sql serverpostgresqlmysql,2
+aws big data,2
+database,2
+software development lifecycle,2
+configuration management,2
+dbt,2
+redshift db,2
+factory,2
+bulky model,2
+dbms,2
+warehouse management,2
+application programming,2
+transform and load,2
+etl tool,2
+data backup,2
+orchestration,2
+etl transformations,2
+hdfs file types,2
+rss,2
+operation,2
+electrical design,2
+datasheet configuration,2
+drawing configurations,2
+technical support,2
+webservices,2
+microsoft azure data stack,2
+quality check,2
+aws redshift,2
+hdfs file system,2
+csv,2
+agile automation,2
+control-m,2
+unit testing,2
+relational database design,2
+data annotation,2
+sparkpyspark,2
+avro,2
+cosmo db,2
+engineering supervisor,2
+data proc cluster,2
+data factory,2
+management,2
+risk management,2
+technical leadership,2
+side,2
+ansi sql,2
+.net,2
+microstrategy,2
+written communication,2
+system design,2
+cloud storage bucket,2
+analytics paas services,2
+rds,2
+mainframe,2
+oop,2
+etl development,2
+automic,2
+maximo,1
+refinery,1
+vertica,1
+problem solving,1
+cloud platform,1
+infopath,1
+subject matter expert,1
+pfd,1
+cmms,1
+spotfire,1
+edms,1
+cims,1
+verbal communication,1
+communication skill,1
+windows workflow foundation,1
+nebosh,1
+kpi,1
+moss,1
+grammar,1
+dep,1
+product engineering,1
+algorithm development,1
+maintenance,1
+asset operations,1
+process development,1
+equipment drawings,1
+power-bi,1
+assai,1
+fim,1
+circuit diagrams,1
+tptexport,1
+shell,1
+plcs,1
+bigdata technologies,1
+information technology,1
+windows,1
+big data platforms,1
+cloud data warehousing,1
+azureaws big data,1
+data architectures,1
+db querying,1
+azure machine learning studio,1
+svn,1
+azure sql dw,1
+restapi frameworks,1
+google cloud data services,1
+written comm,1
+advance sql,1
+azure active directory,1
+datamart,1
+tsql,1
+azure stream analytics,1
+pig,1
+saas,1
+ddl,1
+active directory,1
+orion,1
+spark framework,1
+ssrs data warehousing,1
+mssql server enterprise,1
+google bigquery,1
+amazon rds,1
+databricks lakehouse platform,1
+druid,1
+travis,1
+rabbitmq,1
+apache server,1
+cloud architecture,1
+mr,1
+nosql data stores,1
+sdlc,1
+technical documentation,1
+design,1
+drafting,1
+land surveying,1
+arcgis,1
+data engineering projects,1
+ml model,1
+bricks,1
+hive queries,1
+route53,1
+red hat,1
+sqlserver,1
+flink,1
+database design,1
+data management tools,1
+t-sql,1
+programming,1
+mobile phones,1
+multithreading,1
+scipy,1
+numpy,1
+statistical analysis,1
+data ops,1
+dataops,1
+java//j2ee,1
+spring,1
+azure event hub,1
+event hub,1
+node.js,1
+linuxunix,1
+data lake analytics,1
+yarn,1
+financial services,1
+cloud dataflow,1
+cloud bigquery,1
+big table,1
+cloud pubsub,1
+apache beam / composer,1
+databrick,1
+cloudformation,1
+aws cicd,1
+python+snowsql,1
+python+reshsiftsql,1
+tuning,1
+scheduling,1
+microsoft azure,1
+microsofts azure cloud,1
+elasticsearch,1
+amazon ec2,1
+aws emr,1
+multi - threading,1
+engineering,1
+solution architecture,1
+spi intools,1
+software development engineer ii,1
+supply chain management,1
+jdbc,1
+web services,1
+odbc,1
+data integrity,1
+front end,1
+architectural design,1
+product innovation,1
+business services,1
+sas di,1
+kanban,1
+wealth management,1
+big data processing ,1
+mdm,1
+pl sql,1
+etl elt,1
+postgres sql,1
+assurance,1
+infrastructure,1
+gcp cloud,1
+customer service,1
+stored proc,1
+azure data factory / pipeline,1
+data structurescapacity planning,1
+technical,1
+eco,1
+technology,1
+oral,1
+bash,1
+predictive modeling,1
+test driven development,1
+django,1
+technology solutions,1
+qms,1
+idea generation,1
+core java,1
+customer relationship,1
+enterprise applications,1
+linux shell scripting,1
+professional services,1
+automation systems,1
+aws data,1
+amazon web services,1
+devops tools,1
+data engineering consultant,1
+machine drawings,1
+rotating machines performance,1
+ms access,1
+operations,1
+ms excel,1
+lean six sigma,1
+idq,1
+informatica metadata manager ( imm,1
+axon,1
+edc,1
+metadata extraction,1
+metadata management,1
+sql coding,1
+workflow,1
+data mart,1
+data loading,1
+data acquisition,1
+aws redshift scripts,1
+fraud management,1
+credit underwriting,1
+financial sector,1
+de,1
+data engineer airflow,1
+aws batch,1
+dwh,1
+data marts,1
+excels,1
+modeling,1
+ooad,1
+orc,1
+data enrichment,1
+designing and developing extract,1
+creative designing,1
+mariadb,1
+c++,1
+data process deployment,1
+core sql,1
+junit,1
+r programming,1
+pdf,1
+solution design,1
+drilling,1
+dataproc hub,1
+big query ml,1
+root cause analysis,1
+enterprise content management,1
+sap crm,1
+financial accounting,1
+gap analysis,1
+business process,1
+cobol,1
+cics,1
+jcl,1
+vsam,1
+sql alchemy,1
+apache flink,1
+data visualization,1
+service level management,1
+node js,1
+servicenow,1
+dcs,1
+analyzer instruments,1
+oracle pl / sql,1
+kronos,1
+application engineer,1
+wim,1
+scheduling & accrual,1
+datarec,1
+balancing module tool,1
+plant maintenance,1
+process pi,1
+petrochemical plant operations,1
+rbac controls,1
+azure service,1
+azure functions,1
+azure service bus,1
+excel,1
+flinkspark streaming,1
+agile development,1
+olap,1
+circleci,1
+hexagon spi,1
+termination drawings,1
+detail engineering,1
+cable block diagrams,1
+computer vision deep learning,1
+python r,1
+analysis services,1
+arm templates,1
+kinesis,1
+etl services,1
+hdinsight,1
+pheonix,1
+ssas,1
+azure adf,1
+cloud native,1
+restful apis,1
+restful api,1
+eg,1
+sas,1
+smc,1
+azure storage explorer,1
+ansible,1
+puppet,1
+gcp data proc,1
+aws kinesis,1
+data engineers sql,1
+bash script,1
+azure blob,1
+snowflake matillion,1
+visual analytics,1
+sap hana,1
+ci cd,1
+sql data warehouse,1
+event grid,1
+release management,1
+diversity and inclusion,1
+advanced analytics,1
+kudu,1

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="strongcompnum" title="Strongly-Connected ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Data Scientist" label="Data Scientist">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="33"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="40.0"/>
+        <viz:position x="-22.773228" y="-112.34661"/>
+        <viz:color r="154" g="220" b="255"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="32"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-399.44977" y="-266.95447"/>
+        <viz:color r="242" g="194" b="244"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="31"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-573.80194" y="-453.8904"/>
+        <viz:color r="242" g="194" b="244"/>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="30"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-749.7881" y="-359.19473"/>
+        <viz:color r="242" g="194" b="244"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="29"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="35.0"/>
+        <viz:position x="-663.6575" y="266.0769"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="CICD" label="CICD">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="28"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-830.13446" y="530.5891"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="NLP" label="NLP">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="27"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-562.201" y="581.3542"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="Deep Learning" label="Deep Learning">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="26"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-992.32935" y="364.6081"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="DevOps" label="DevOps">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="25"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-731.51917" y="-24.964325"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="etl" label="etl">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="24"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-422.9108" y="397.15286"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="ML algorithms" label="ML algorithms">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="23"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-906.26434" y="86.07951"/>
+        <viz:color r="76" g="236" b="220"/>
+      </node>
+      <node id="ML Framework" label="ML Framework">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="22"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="22.5"/>
+        <viz:position x="225.252" y="-58.01519"/>
+        <viz:color r="145" g="228" b="156"/>
+      </node>
+      <node id="OpenCV" label="OpenCV">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="21"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="353.40668" y="-35.97883"/>
+        <viz:color r="145" g="228" b="156"/>
+      </node>
+      <node id="Database  Software" label="Database  Software">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="20"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="30.0"/>
+        <viz:position x="577.69507" y="-608.1904"/>
+        <viz:color r="215" g="214" b="111"/>
+      </node>
+      <node id="noSQL" label="noSQL">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="19"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="777.2992" y="-483.34924"/>
+        <viz:color r="215" g="214" b="111"/>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="18"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="695.13824" y="-828.6974"/>
+        <viz:color r="215" g="214" b="111"/>
+      </node>
+      <node id="Data warehouse" label="Data warehouse">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="17"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="837.39215" y="-717.3251"/>
+        <viz:color r="215" g="214" b="111"/>
+      </node>
+      <node id="MongoDB" label="MongoDB">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="16"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="521.3125" y="-794.6104"/>
+        <viz:color r="215" g="214" b="111"/>
+      </node>
+      <node id="Cloud Software" label="Cloud Software">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="15"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="27.5"/>
+        <viz:position x="-241.21776" y="-729.54553"/>
+        <viz:color r="255" g="188" b="123"/>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="14"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-143.81042" y="-903.767"/>
+        <viz:color r="255" g="188" b="123"/>
+      </node>
+      <node id="Hadoop" label="Hadoop">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="13"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-413.1042" y="-801.124"/>
+        <viz:color r="255" g="188" b="123"/>
+      </node>
+      <node id="GCP" label="GCP">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="12"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-317.91788" y="-948.8543"/>
+        <viz:color r="255" g="188" b="123"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="11"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="37.5"/>
+        <viz:position x="405.24594" y="372.2639"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="SPSS" label="SPSS">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="10"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="494.49844" y="627.1516"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="SAS" label="SAS">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="9"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="638.1351" y="234.39465"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Tableau" label="Tableau">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="8"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="660.79456" y="518.9894"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Scrum" label="Scrum">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="7"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="295.35263" y="570.8469"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Power BI" label="Power BI">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="6"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="246.71362" y="437.78955"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Excel" label="Excel">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="5"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="443.9062" y="214.08868"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Power point" label="Power point">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="4"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="717.63904" y="365.74796"/>
+        <viz:color r="255" g="175" b="188"/>
+      </node>
+      <node id="Operating System Software" label="Operating System Software">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="3"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="22.5"/>
+        <viz:position x="48.784325" y="-341.7951"/>
+        <viz:color r="154" g="220" b="255"/>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="2"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="88.10611" y="-461.21484"/>
+        <viz:color r="154" g="220" b="255"/>
+      </node>
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="1"/>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="22.5"/>
+        <viz:position x="-88.74881" y="137.01436"/>
+        <viz:color r="155" g="211" b="205"/>
+      </node>
+      <node id="Healthcare" label="Healthcare">
+        <attvalues>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="strongcompnum" value="0"/>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-119.001785" y="265.1727"/>
+        <viz:color r="155" g="211" b="205"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Data Scientist" target="Programming Language"/>
+      <edge id="1" source="Data Scientist" target="Subject Knowledge"/>
+      <edge id="2" source="Data Scientist" target="ML Framework"/>
+      <edge id="3" source="Data Scientist" target="Database  Software"/>
+      <edge id="4" source="Data Scientist" target="Cloud Software"/>
+      <edge id="5" source="Data Scientist" target="Tools"/>
+      <edge id="6" source="Data Scientist" target="Operating System Software"/>
+      <edge id="7" source="Data Scientist" target="Interdisciplinary opportunity"/>
+      <edge id="8" source="Programming Language" target="Python"/>
+      <edge id="9" source="Programming Language" target="R"/>
+      <edge id="10" source="Subject Knowledge" target="CICD"/>
+      <edge id="11" source="Subject Knowledge" target="NLP"/>
+      <edge id="12" source="Subject Knowledge" target="Deep Learning"/>
+      <edge id="13" source="Subject Knowledge" target="DevOps"/>
+      <edge id="14" source="Subject Knowledge" target="etl"/>
+      <edge id="15" source="Subject Knowledge" target="ML algorithms"/>
+      <edge id="16" source="ML Framework" target="OpenCV"/>
+      <edge id="17" source="Database  Software" target="noSQL"/>
+      <edge id="18" source="Database  Software" target="SQL"/>
+      <edge id="19" source="Database  Software" target="Data warehouse"/>
+      <edge id="20" source="Database  Software" target="MongoDB"/>
+      <edge id="21" source="Cloud Software" target="Azure"/>
+      <edge id="22" source="Cloud Software" target="Hadoop"/>
+      <edge id="23" source="Cloud Software" target="GCP"/>
+      <edge id="24" source="Tools" target="SPSS"/>
+      <edge id="25" source="Tools" target="SAS"/>
+      <edge id="26" source="Tools" target="Tableau"/>
+      <edge id="27" source="Tools" target="Scrum"/>
+      <edge id="28" source="Tools" target="Power BI"/>
+      <edge id="29" source="Tools" target="Excel"/>
+      <edge id="30" source="Tools" target="Power point"/>
+      <edge id="31" source="Operating System Software" target="Linux"/>
+      <edge id="32" source="Interdisciplinary opportunity" target="Healthcare"/>
+    </edges>
+  </graph>
+</gexf>

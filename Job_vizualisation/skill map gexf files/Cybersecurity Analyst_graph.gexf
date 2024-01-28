@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Cybersecurity Analyst" label="Cybersecurity Analyst" />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="Java" label="Java" />
+      <node id="JavaScript" label="JavaScript" />
+      <node id="Python" label="Python" />
+      <node id="SQL" label="SQL" />
+      <node id="PHP" label="PHP" />
+      <node id="C" label="C" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Information Security" label="Information Security" />
+      <node id="Disaster Recovery" label="Disaster Recovery" />
+      <node id="Security Operations Center (SOC)" label="Security Operations Center (SOC)" />
+      <node id="Endpoint Security" label="Endpoint Security" />
+      <node id="Firewall Management" label="Firewall Management" />
+      <node id="IPV6" label="IPV6" />
+      <node id="IPV4" label="IPV4" />
+      <node id="DNS" label="DNS" />
+      <node id="Automation" label="Automation" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="Azure" label="Azure" />
+      <node id="AWS" label="AWS" />
+      <node id="GCP" label="GCP" />
+      <node id="Azure Sentinel" label="Azure Sentinel" />
+      <node id="Tools" label="Tools" />
+      <node id="Nessus" label="Nessus" />
+      <node id="Burp Suite" label="Burp Suite" />
+      <node id="Nmap" label="Nmap" />
+      <node id="Sysinternals Suite" label="Sysinternals Suite" />
+      <node id="VMWare" label="VMWare" />
+      <node id="Powershell" label="Powershell" />
+      <node id="Selenium" label="Selenium" />
+      <node id="SIEM" label="SIEM" />
+      <node id="Operating System " label="Operating System " />
+      <node id="Kali Linux" label="Kali Linux" />
+      <node id="Ubuntu" label="Ubuntu" />
+      <node id="CentOS" label="CentOS" />
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity" />
+      <node id="Finance" label="Finance" />
+      <node id="Health" label="Health" />
+      <node id="Government and Defense" label="Government and Defense" />
+      <node id="Legal" label="Legal" />
+      <node id="Devops" label="Devops" />
+      <node id="Docker" label="Docker" />
+    </nodes>
+    <edges>
+      <edge source="Cybersecurity Analyst" target="Programming Language" id="0" />
+      <edge source="Cybersecurity Analyst" target="Subject Knowledge" id="1" />
+      <edge source="Cybersecurity Analyst" target="Cloud Software" id="2" />
+      <edge source="Cybersecurity Analyst" target="Tools" id="3" />
+      <edge source="Cybersecurity Analyst" target="Operating System " id="4" />
+      <edge source="Cybersecurity Analyst" target="Interdisciplinary opportunity" id="5" />
+      <edge source="Cybersecurity Analyst" target="Devops" id="6" />
+      <edge source="Programming Language" target="Java" id="7" />
+      <edge source="Programming Language" target="JavaScript" id="8" />
+      <edge source="Programming Language" target="Python" id="9" />
+      <edge source="Programming Language" target="SQL" id="10" />
+      <edge source="Programming Language" target="PHP" id="11" />
+      <edge source="Programming Language" target="C" id="12" />
+      <edge source="Subject Knowledge" target="Information Security" id="13" />
+      <edge source="Subject Knowledge" target="Disaster Recovery" id="14" />
+      <edge source="Subject Knowledge" target="Security Operations Center (SOC)" id="15" />
+      <edge source="Subject Knowledge" target="Endpoint Security" id="16" />
+      <edge source="Subject Knowledge" target="Firewall Management" id="17" />
+      <edge source="Subject Knowledge" target="IPV6" id="18" />
+      <edge source="Subject Knowledge" target="IPV4" id="19" />
+      <edge source="Subject Knowledge" target="DNS" id="20" />
+      <edge source="Subject Knowledge" target="Automation" id="21" />
+      <edge source="Cloud Software" target="Azure" id="22" />
+      <edge source="Cloud Software" target="AWS" id="23" />
+      <edge source="Cloud Software" target="GCP" id="24" />
+      <edge source="Cloud Software" target="Azure Sentinel" id="25" />
+      <edge source="Tools" target="Nessus" id="26" />
+      <edge source="Tools" target="Burp Suite" id="27" />
+      <edge source="Tools" target="Nmap" id="28" />
+      <edge source="Tools" target="Sysinternals Suite" id="29" />
+      <edge source="Tools" target="VMWare" id="30" />
+      <edge source="Tools" target="Powershell" id="31" />
+      <edge source="Tools" target="Selenium" id="32" />
+      <edge source="Tools" target="SIEM" id="33" />
+      <edge source="Operating System " target="Kali Linux" id="34" />
+      <edge source="Operating System " target="Ubuntu" id="35" />
+      <edge source="Operating System " target="CentOS" id="36" />
+      <edge source="Interdisciplinary opportunity" target="Finance" id="37" />
+      <edge source="Interdisciplinary opportunity" target="Health" id="38" />
+      <edge source="Interdisciplinary opportunity" target="Government and Defense" id="39" />
+      <edge source="Interdisciplinary opportunity" target="Legal" id="40" />
+      <edge source="Devops" target="Docker" id="41" />
+    </edges>
+  </graph>
+</gexf>

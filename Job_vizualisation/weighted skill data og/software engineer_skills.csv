@@ -1,0 +1,1297 @@
+Element,Count
+it skills,279
+java,197
+testing,134
+javascript,124
+cloud,112
+software development,95
+linux,92
+python,88
+c++,83
+c,70
+debugging,70
+jquery,69
+azure,65
+agile,65
+communication,60
+c#,59
+aws,52
+git,49
+data structures,48
+j2ee,47
+html,44
+devops,41
+asp.net,40
+software engineering,38
+networking,37
+xml,35
+coding,35
+oracle,34
+troubleshooting,34
+automation,34
+sql server,33
+computer science,33
+sql,33
+mysql,32
+bootstrap,31
+jenkins,30
+embedded c,29
+big data,29
+core java,29
+forgerock openidm,27
+angular,27
+.net,26
+css,25
+verbal,25
+sap,24
+hibernate,23
+json,23
+written communication,21
+web services,21
+windows,21
+php,21
+oops,21
+spring boot,20
+rest,20
+jira,20
+design,20
+analytical,20
+qt,19
+performance tuning,19
+ms sql server,19
+software design,19
+backend,19
+scrum,19
+unix,19
+shell scripting,18
+rtos,18
+data science,17
+typescript,17
+react,17
+written,17
+asp net,16
+html5,16
+web api,16
+ms sql,16
+ethernet,16
+microservices,15
+machine learning,15
+soap,15
+intellij,15
+embedded software,14
+network security,14
+android,14
+waterfall,14
+node.js,14
+front end,14
+autosar,14
+programming,14
+unit testing,14
+css3,13
+svn,13
+swift,13
+react js,13
+application development,13
+tcp,13
+test cases,13
+ci / cd,12
+design patterns,12
+http,12
+product management,12
+.net core,12
+agile development,12
+mvc,12
+ios,12
+kubernetes,12
+web technologies,12
+perl,11
+software,11
+selenium,11
+sql queries,11
+bsw,11
+vectorcast,11
+telecom,11
+wireless,11
+springboot,11
+multithreading,11
+maven,11
+canoe,11
+spring,11
+pl/sql,10
+cloud computing,10
+atlassian confluence,10
+bss,10
+nodejs,10
+project management,10
+test driven development,10
+migration,10
+erp,10
+c#.net,10
+confluence,10
+consulting,10
+sap hana,9
+objective-c,9
+version control,9
+paas,9
+qml,9
+docker,9
+saml,9
+application programming,9
+.net framework,9
+cryptography,9
+microsoft sql server,9
+automapper,9
+castle windsor,9
+asp.net mvc 5.0,9
+postgresql,9
+eclipse,9
+openshift,8
+ios sdk,8
+apache camel,8
+apache kafka,8
+embedded software development,8
+junit,8
+cisco asa,8
+ajax,8
+architecture,8
+azure sql,8
+ui,8
+cisco ftd,8
+power bi,8
+testing tools,8
+powershell,8
+aws glue,8
+mobile development,8
+continuous integration,8
+linux kernel,8
+development,8
+api,8
+rdbms,8
+sdlc,8
+net framework,8
+scm,8
+object-oriented programming,8
+automation testing,8
+restful apis,8
+technical leading,7
+jpa,7
+redux,7
+google bigquery,7
+solution design,7
+net,7
+aks,7
+wcf,7
+forgerock openam,7
+apis,7
+developing,7
+object oriented design,7
+open source,7
+functional testing,7
+embedded linux,7
+quality assurance,7
+forgerock,7
+algorithms,7
+kentico,7
+enterprise applications,7
+information security,7
+microsoft,7
+github,7
+igmp,7
+nosql,7
+visual studio,7
+spring -,7
+vmware,7
+angular js,6
+performance testing,6
+defect tracking,6
+deployment automation,6
+soap apis,6
+gcp,6
+refactoring,6
+fips,6
+sql database,6
+automotive,6
+adobe aem,6
+middleware,6
+apache,6
+teradata,6
+wireshark,6
+jee platform,6
+software engineer 2,6
+identity and access management,6
+implements security,6
+fullstack development,6
+e-learning,6
+java web services,6
+product strategy,6
+node js,6
+jaxb,6
+juniper,6
+l2,6
+react.js,6
+networking protocols,6
+integration testing,6
+etl,6
+angularjs,6
+performance management,6
+api management,6
+l3,6
+entity framework,6
+adf,5
+olap,5
+ui development,5
+mvvm,5
+vpn,5
+isis,5
+routing protocols,5
+bobj,5
+sap data services,5
+t - sql,5
+netbeans,5
+bitbucket,5
+infrastructure,5
+webservices,5
+healthcare,5
+sass,5
+automation framework,5
+spark,5
+soa,5
+mongo,5
+restful,5
+atlassian,5
+tomcat,5
+plsql,5
+tensorflow,5
+bods,5
+jsp,5
+golang,5
+protractor,5
+artificial intelligence,5
+gdb,5
+oo concepts,5
+object oriented programming,5
+api development,5
+net framework 4.0,5
+data quality,5
+visual design,5
+learning,5
+active directory,5
+configuration management,5
+oauth 20,5
+kotlin,5
+bpo,5
+azure data factory,5
+go,5
+scrum methodology,4
+manager technology,4
+aspnet,4
+microsoft azure paas,4
+google cloud,4
+workflow,4
+db2,4
+storm,4
+workflows,4
+stake holder management,4
+object - oriented design,4
+opencv,4
+vsts,4
+image processing,4
+software development life cycle,4
+linq,4
+spring security,4
+software architecture,4
+system software development,4
+webpack,4
+ml apis,4
+work permit,4
+hive,4
+simulink,4
+opengl,4
+xsl,4
+matlab,4
+database system architecture,4
+aws architecture,4
+c programming,4
+salesforce,4
+pyspark,4
+life cycle,4
+content management systems,4
+pytorch,4
+stakeholder management,4
+nlp,4
+3d,4
+nhibernate,4
+kentico cms,4
+cloud applications,4
+open am,4
+compliance,4
+jdbc,4
+lan,4
+jmeter,4
+oauth,4
+verbal communication,4
+jboss,4
+forgerock implementation,4
+tdd,4
+process improvement,4
+c# net,4
+rcp,4
+virtualization,4
+node,4
+embedded,4
+field trials,4
+communication protocols,4
+microcontroller,4
+standard operating procedures,4
+pdf,4
+research development,4
+process management,4
+basic knowledge about css,4
+scorm,4
+ui automation,4
+access management,4
+software engineer 3,4
+android framework,4
+android sdk,4
+construction equipment,4
+embedded sw development,4
+zalenium,4
+module development,4
+xcode,4
+microcontroller programming,4
+jenkins pipeline,4
+hmi development,4
+artifactory,4
+cypress,4
+integration tests,4
+continuous improvement,4
+oid,4
+sqlite,3
+application support,3
+cloud technologies,3
+documentation,3
+sap fico,3
+rds,3
+portfolio management,3
+good communication skills,3
+fortify scan,3
+rdmbs,3
+es6,3
+xamarin,3
+solution development,3
+content management,3
+analytical skills,3
+assembly language,3
+graphics,3
+macos,3
+mobile architect,3
+5g ran,3
+c / c++,3
+usage,3
+cassandra,3
+presto,3
+unit testing tools,3
+load runner,3
+automotive electronics,3
+product design,3
+white box testing,3
+tools,3
+device drivers,3
+elastic search,3
+okta identity management,3
+iam,3
+sas,3
+identity management,3
+react native,3
+access control,3
+san,3
+password management,3
+web development,3
+kanban,3
+signavio,3
+qtest,3
+jms,3
+architectural design,3
+ood,3
+oop,3
+aws core infrastructure,3
+big data analytics,3
+asp net mvc,3
+restful api,3
+rest api,3
+oscilloscope,3
+electronic circuit design,3
+fullstack,3
+protocol stack,3
+microsoft windows,3
+workplace technology solutions,3
+configuration manager,3
+azure databricks,3
+microsoft deployment toolkit mdt,3
+azure ad,3
+misra,3
+software engineer ii,3
+ec2,3
+nltk,3
+cv2x,3
+rnn,3
+lstm,3
+system administration,3
+vb.net,3
+object oriented development,3
+esri arcgis,3
+ldra,3
+embedded c++,3
+sql server 2005,3
+arcfm,3
+gis,3
+process automation,3
+struts,3
+dreamweaver,3
+jakarta tomcat,3
+memory management,3
+full stack,3
+sap eam real estate management,3
+automated test frameworks,3
+acr,3
+aspnet core,3
+saas,3
+manager quality assurance,3
+vb net,3
+scripting,3
+.net framework 4.5,3
+iis,3
+uml,3
+flux,3
+front - end development,3
+shell,3
+technical support,3
+azure devops,3
+xsd,3
+java coding,3
+guidewire,3
+java enterprise,3
+s3,3
+i2c,3
+rest apis,3
+rs485,3
+messaging,3
+css 3 0,3
+jest,3
+selection process,3
+vxworks,3
+rxjava,3
+jtag,3
+picasso,3
+spring mvc,3
+json format,3
+level,3
+trouble shooting,3
+electronics,3
+dagger,3
+supply chain,3
+retrofit,3
+c++ programming,3
+posix,3
+pmc,3
+publishing,3
+cortex,3
+docsign clm,3
+technical,3
+enterprise network operations,3
+com,3
+security services,3
+packaging,2
+data visualization,2
+test execution,2
+instrumentation,2
+ni labview,2
+cloudant,2
+ssl,2
+angular 10,2
+wmb,2
+mq,2
+flume,2
+ibm datapower,2
+software development life,2
+bigquery architecture,2
+bigquery ml,2
+hardware,2
+speech recognition,2
+staffing,2
+net 4 5+,2
+singleton,2
+.net technologies,2
+sap ecc,2
+apis oauth,2
+vlan,2
+oo design,2
+ms access,2
+oim,2
+cyberark privileged identity access management,2
+picasso/glide,2
+identity,2
+oracle identity manger,2
+one identity manager,2
+oim 11g,2
+rest - apis,2
+restful web service,2
+linux device drivers,2
+ipc,2
+simulation,2
+information technology,2
+rfq,2
+power electronics,2
+fpga,2
+objective c,2
+fronthaul testing,2
+lte testing,2
+microsoft 365,2
+crystal report,2
+tfs,2
+open,2
+dotnet development,2
+qos,2
+root cause,2
+debug,2
+drive integration,2
+java ee,2
+data migration,2
+oracle db,2
+ruby,2
+ruby rails,2
+asp net core,2
+ds saml,2
+ad,2
+routing,2
+kvm,2
+session management,2
+identity access management,2
+mpls,2
+ldap,2
+r,2
+google cloud cloud bigquery,2
+python programming,2
+public health,2
+winforms,2
+x86,2
+nunit,2
+mstest,2
+mca,2
+ssrs,2
+code,2
+regression testing,2
+application server,2
+openidm,2
+password policies,2
+source control management,2
+installation,2
+manual testing,2
+mvp. usage of frameworks -volley/retrofit,2
+unix shell scripting,2
+kafka,2
+software documentation,2
+tableau,2
+database design,2
+pl - sql,2
+database administration,2
+test-driven development,2
+web security,2
+sdk,2
+symfony,2
+doctrine orm,2
+twilio integration,2
+test scenarios,2
+ips,2
+api security,2
+intellectual property,2
+t-sql,2
+flutter,2
+application design,2
+docusign,2
+automated testing,2
+sprint boot,2
+android studio,2
+hardware development,2
+log shipping,2
+iphone,2
+uart,2
+postman api,2
+observer,2
+-strong and demonstrable knowledge of android java,2
+configuring,2
+administration,2
+provident fund,2
+jira workflows,2
+atlassian tool,2
+screen schemes,2
+rs232,2
+ios development,2
+spi,2
+mssql,2
+sme,2
+java 8,2
+dvr,2
+management,2
+law enforcement,2
+vod,2
+consumer electronics,2
+cloud bigquery,2
+windows server administration,2
+configuration,2
+problem solving,2
+sabre,2
+ms office,2
+qnx,2
+postman,2
+transition,2
+ssh,2
+odata,2
+issue resolution,2
+operations,2
+automl,2
+pega prpc,2
+design & development,2
+employee engagement,2
+it governance,2
+life insurance,2
+google cloud platform architecture,2
+wan,2
+clod data flow,2
+xnap,2
+schema,2
+mac,2
+arcgis server,2
+lambda,2
+kendo ui,2
+guidewire integration,2
+gui design,2
+stl,2
+databinding.java design patterns - factory,2
+it,2
+agile methodology,2
+commercial vehicle,2
+cisco firewall,2
+change management,2
+patterns,2
+arcgis desktop,2
+js,2
+java script,2
+bash,2
+palo alto,2
+modbustcp,2
+http/2,2
+ethernetip,2
+embedded system development,2
+palo alto networks firewall,2
+idp,2
+mentor,2
+technical lead,2
+architect,2
+palo alto networks,2
+lb,2
+directory services,2
+ubuntu linux,2
+expressjs,2
+spring framework,2
+oss development,2
+gcp dataflow,2
+sap s/4hana,2
+kinesis,2
+dynamodb,2
+product development,2
+data analysis,2
+aem,2
+juniper routers,2
+adobe cq,2
+system architecture,2
+4g epc,2
+5g core elements,2
+volte,2
+silicon,2
+equity,2
+gcp bigqueryd,2
+mybatis,2
+microsoft sql server database,2
+visual c++,2
+itk,2
+signal processing,2
+medical imaging,2
+5g,2
+asp.net mvc,2
+firmware,2
+cq5,2
+kotlin. common design patterns - mvc,2
+webapi,2
+qms,2
+control system,2
+cisco,2
+mining,2
+ui design,2
+optical networking,2
+gitlab,2
+sap monitoring,2
+sap tools,2
+solution management,2
+sap basis,2
+express,2
+c #,2
+bdd,2
+asp,2
+vbscript,2
+rest web services,2
+telematics,2
+telecom operations,2
+udp,2
+agile development methodologies,2
+sdl,2
+development testing,2
+integration biztalk server,2
+smtp,2
+sap s/4 hana,2
+dns,2
+rtp,2
+asp .net,2
+mvc 5,2
+informatica,2
+monitoring,2
+heavy machinery,2
+broadcom,1
+pcie,1
+springboot java,1
+linux kernel programming,1
+software configuration,1
+digital transformation,1
+design engineering,1
+processing,1
+install base,1
+technical architect,1
+micro controllers programming,1
+content management system,1
+usb,1
+soc,1
+kernel,1
+javascript frameworks,1
+mlops,1
+wordpress,1
+strong analytical skills,1
+arm,1
+administration manager,1
+dart,1
+cgi,1
+hardware subsystems,1
+uefi,1
+backend development,1
+hmi,1
+micro python,1
+components,1
+trace32,1
+cmake,1
+sql server. javascript,1
+wlan,1
+iib,1
+tibco integration stack,1
+4g,1
+spotfire,1
+gprs,1
+tibco business works,1
+tcp - ip,1
+web application testing,1
+test strategy,1
+integration development,1
+amazon web services,1
+test planning,1
+qa testing,1
+raspberry pi,1
+websockets,1
+framework designing,1
+designing,1
+quartz,1
+reltio mdm,1
+emerging technologies,1
+solid principles,1
+jcl,1
+odbc,1
+test case execution,1
+gradle,1
+designing apis,1
+mdm ui,1
+technical leadership,1
+angular8,1
+sez,1
+deep packet inspection,1
+restful web api development,1
+ids,1
+proxy,1
+restf,1
+informatica mdm,1
+reltio,1
+arm microprocessors,1
+mdm hub,1
+scrum development,1
+data integration,1
+sql scripting,1
+head engineering,1
+roots configuration,1
+quality improvement,1
+security compliance,1
+grpc,1
+http2 / 3,1
+jason parsing,1
+api lifecycle,1
+team building,1
+wellness,1
+embedded system,1
+conceptualization,1
+visual studio ide,1
+canflexray,1
+api testing,1
+web ui,1
+social networking,1
+testng,1
+modern web ui framework react native,1
+recruitment,1
+sharepoint,1
+net core development,1
+dotnet web application,1
+mern,1
+ux,1
+concepts,1
+geo json,1
+software integration testing,1
+multi ada,1
+gnat,1
+static code analysis,1
+microsoft sql datawarehouse,1
+oracle reports,1
+product control,1
+aws ec2,1
+api design,1
+diversity and inclusion,1
+mimo,1
+legal,1
+project planning,1
+taxation,1
+oracle application framework,1
+customer support,1
+test case review,1
+software associate,1
+health insurance,1
+ant,1
+react ant,1
+hp data protector,1
+software engineer l2,1
+a / b testing,1
+optimizely,1
+adobe target premium,1
+google cloud sql,1
+kubernates,1
+gcs,1
+xilinx,1
+java8,1
+technical analysis,1
+cosmos,1
+algorithm,1
+cmos,1
+chromatix,1
+sensor,1
+pixel,1
+omnivision,1
+biztalk server,1
+written communications,1
+tsn,1
+ado,1
+vb,1
+release management,1
+application software,1
+focus,1
+ip routing,1
+bloomberg,1
+high availability,1
+responsive design,1
+objective c / c++,1
+coregraphics,1
+cocoa,1
+mac ui framework,1
+jfrog& ci / cd,1
+swift interoperability,1
+mac os,1
+jfrog,1
+macos sensor,1
+tcp/ip,1
+sqa,1
+arcgis,1
+skills,1
+jetpack compose,1
+aws big data,1
+hadoop,1
+itil incident management,1
+data management,1
+data pipelining,1
+windows 7,1
+windows administrator,1
+cq development,1
+dom,1
+babel,1
+jsx,1
+data structure,1
+mobile development life cycle,1
+j2me,1
+cq,1
+adobe aem/cq,1
+ecommerce,1
+windows mobile,1
+distribution system,1
+distributed database,1
+system scalability,1
+cloud infrastructure,1
+distributed systems,1
+erlang,1
+communication skills,1
+jsp servlets,1
+wcm implementation,1
+servlet,1
+wcm,1
+aws bigdata,1
+deployment,1
+systems analysis,1
+espresso,1
+data mining,1
+information retrieval,1
+data modeling,1
+ibm websphere,1
+asp.net web,1
+webstorm,1
+intellij idea,1
+foreman,1
+j2ee microservices,1
+ci/cd,1
+writing skills,1
+ml,1
+table partitioning,1
+bigquery,1
+hana studio,1
+interpersonal skills,1
+sap java connectors,1
+sap jco,1
+product support,1
+pdlc,1
+windows xp,1
+cad,1
+dlm framework,1
+oo abap,1
+adbc,1
+amdp,1
+cds views,1
+adt,1
+wlan 802.11,1
+grid,1
+business analysis,1
+object oriented analysis,1
+cloud integration,1
+sap hana cloud integration,1
+sap po,1
+storage virtualization,1
+product life cycle,1
+network programming,1
+cocoa touch,1
+ejb,1
+embedded systems,1
+orm,1
+iphone sdk,1
+cocoa framework,1
+continuous delivery,1
+software engineer,1
+teaching,1
+cpu,1
+crypto algorithms,1
+cryptocurrency,1
+metadata,1
+transaction management,1
+esri updm data model,1
+bluetooth,1
+spoken english,1
+tcpip,1
+rtc,1
+sub,1
+autocad,1
+siemens,1
+c & c++,1
+gui,1
+altonet interface,1
+platforms,1
+weblogic,1
+sqlserver,1
+customer marketing,1
+verilog hdl,1
+electrical design,1
+c c++,1
+cics,1
+lightning,1
+java development,1
+oracle identity analytics,1
+technical solution,1
+iam technologies,1
+project portfolio management tools,1
+cobol,1
+mobile architecture,1
+operational support,1
+openid connect,1
+system design,1
+oracle database,1
+russian language,1
+jsf,1
+jdk7,1
+jsf 2 2,1
+oracle identity manager,1
+copado,1
+hft,1
+unix os,1
+ticketing,1
+functional safety,1
+electronics engineering,1
+backend developer,1
+golang developer,1
+process design,1
+public cloud,1
+sdn,1
+openstack,1
+dot net,1
+delphi,1
+lucene,1
+search engine,1
+solr,1
+distributed computing,1
+python scripting,1
+data model,1
+presentation,1
+angular 9+,1
+training,1
+vxlan,1
+basic,1
+servicenow,1
+mis,1
+wsus,1
+scss,1
+devexpress,1
+vc++,1
+sql server 2008,1
+java scripting,1
+github actions,1
+gitlab ci,1
+wan network,1
+flink,1
+network architecture,1
+xstp,1
+stylus,1
+jade,1
+asp . net mvc,1
+ifrs 16,1
+business entity,1
+master data management,1
+fi-aa,1
+business partnering,1
+sap eam real estate,1
+joomla,1
+commercial real estate,1
+s/4 hana,1
+sap eam,1
+ifrs16,1
+web fullstack development engineer,1
+tcp ip protocol,1
+licensing,1
+xhtml,1
+ccna,1
+e2e testing,1
+webservice,1
+rmi,1
+interviewing,1
+selenium libraries,1
+robot framework,1
+autoit,1
+time,1
+robot automation framework,1
+ibatis,1
+logstash,1
+shell scripts,1
+elasticsearch,1
+testing life cycle,1
+postgres,1
+ms - sql,1
+mfc,1
+mfc and com,1
+datastructures,1
+presentation skills,1
+technology management,1
+research,1
+rdlc report,1
+rpc,1
+android interactivity. ... android ui. ... implementing navigation. ... android testing. ... working with data. ... notifications. ... firebase on android.,1
+object - oriented programming,1
+.net framework 3.5,1
+glue,1
+web designing,1
+ionic,1
+phonegap,1
+wfc,1
+redshift,1
+airflow,1
+dba,1
+career development,1
+cash flow,1
+wan optimization,1
+c hash,1
+viejas,1
+sonarqube,1
+django,1
+pug,1
+troubleshoot,1
+languages,1
+software testing,1
+microstrategy,1
+fix protocol,1
+netconf,1
+hadoop ecosystem,1
+mac learning,1
+jericho,1
+snmp,1
+emi,1
+bug fixing,1
+web api/services,1
+elastic stack,1
+vue cli,1
+vuex,1
+vue.js,1
+java script framework,1
+rfcs,1
+ecc systems,1
+bug tracking tool,1
+test scripts,1
+qa methodologies,1
+sccm,1
+api's,1
+angular+,1
+site management,1
+netty,1
+blackberry,1
+angular 9,1
+automated testing tools,1
+terraform,1
+azure functions,1
+titan graph db,1
+cloud foundry,1
+cicd pipeline,1
+english,1
+sf sales cloud,1
+swift android,1
+detox,1
+xctest,1
+system programming,1
+ui/ux photoshop design.  backend api - json,1
+programming skills,1
+risk assessment,1
+sales process,1
+security testing,1
+opentext,1
+otds,1
+itsm,1
+opentext communication,1
+api levels,1
+xml design,1
+dl,1
+computer vision,1
+hardware architecture,1
+dl frameworks,1
+ooad,1
+bios,1
+linux development,1
+unix internals,1
+flat files,1
+hana,1
+stored procedures,1
+query optimization,1
+database maintenance,1
+plm,1
+object - oriented development,1
+json / xml,1
+android ui design,1
+prototype,1
+analog,1
+ui5,1
+sap technical development,1
+data center,1
+phython,1
+cyber security,1
+vx works,1
+cybersecurity,1
+cluster configuration,1
+rhel os,1
+demand management,1
+package management,1
+report development,1
+c language,1
+oracle sql,1
+sap business objects data services,1
+sap business objects,1
+data services,1
+business process,1
+c++ design,1
+business objects,1
+object - oriented php,1
+object oriented concepts,1
+webtech,1
+operating systems,1
+influx,1
+common language runtime,1
+wpf,1
+mongo db,1
+rup,1
+angular.js,1
+api integration,1
+frontend development,1
+express js,1
+ecmascript,1
+cache,1
+oidc,1
+sso,1
+cloud storage,1
+cloud services,1
+sap bods,1
+bapi,1
+sap businessobjects data services,1
+yml,1
+restful services,1
+microservices architecture,1
+material ui,1
+refrigeration,1
+mvc architecture,1
+ireport,1
+six sigma,1
+pmp,1
+ventilation,1
+software development lifecycle,1
+microsoft windows server administration,1
+microsoft windows operating systems,1
+c programming language,1
+senior developer,1
+socket programming,1
+jwt,1
+web application development,1
+sap bw,1
+scrum agile methodology,1
+java streams,1
+grafana,1
+k8s,1
+aix,1
+head business development,1
+security development lifecycle,1
+freebsd,1
+splunk,1
+saas concepts,1
+oracle bi publisher,1
+otbi,1
+bpel,1
+entity frame work,1
+j query,1
+accessibility,1
+test automation,1

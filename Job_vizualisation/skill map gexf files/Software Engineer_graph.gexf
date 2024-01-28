@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Software Engineer" label="Software Engineer" />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="C++" label="C++" />
+      <node id="Python" label="Python" />
+      <node id="Java" label="Java" />
+      <node id="JavaScript" label="JavaScript" />
+      <node id="Go" label="Go" />
+      <node id="Kotlin" label="Kotlin" />
+      <node id="HTML" label="HTML" />
+      <node id="CSS" label="CSS" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Application Design" label="Application Design" />
+      <node id="Software Development Life Cycle" label="Software Development Life Cycle" />
+      <node id="Solution Development" label="Solution Development" />
+      <node id="Front-end Development" label="Front-end Development" />
+      <node id="Backend-Development" label="Backend-Development" />
+      <node id="REST" label="REST" />
+      <node id="Agile" label="Agile" />
+      <node id="Data Structures" label="Data Structures" />
+      <node id="Database  Software" label="Database  Software" />
+      <node id="Microsoft SQL Server" label="Microsoft SQL Server" />
+      <node id="Oracle Database" label="Oracle Database" />
+      <node id="MongoDB" label="MongoDB" />
+      <node id="Cassandra" label="Cassandra" />
+      <node id="Redis" label="Redis" />
+      <node id="Elasticsearch" label="Elasticsearch" />
+      <node id="Cloud Software" label="Cloud Software" />
+      <node id="Azure" label="Azure" />
+      <node id="AWS" label="AWS" />
+      <node id="GCS" label="GCS" />
+      <node id="Tools" label="Tools" />
+      <node id="Git" label="Git" />
+      <node id="Gradle" label="Gradle" />
+      <node id="Operating System " label="Operating System " />
+      <node id="Ubuntu" label="Ubuntu" />
+      <node id="Windows" label="Windows" />
+      <node id="MacOS" label="MacOS" />
+      <node id="Debian" label="Debian" />
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity" />
+      <node id="Fintech" label="Fintech" />
+      <node id="Health" label="Health" />
+      <node id="Entertainment" label="Entertainment" />
+      <node id="Devops" label="Devops" />
+      <node id="Jenkins" label="Jenkins" />
+      <node id="Kubernetes" label="Kubernetes" />
+      <node id="Docker" label="Docker" />
+      <node id="Ansible" label="Ansible" />
+    </nodes>
+    <edges>
+      <edge source="Software Engineer" target="Programming Language" id="0" />
+      <edge source="Software Engineer" target="Subject Knowledge" id="1" />
+      <edge source="Software Engineer" target="Database  Software" id="2" />
+      <edge source="Software Engineer" target="Cloud Software" id="3" />
+      <edge source="Software Engineer" target="Tools" id="4" />
+      <edge source="Software Engineer" target="Operating System " id="5" />
+      <edge source="Software Engineer" target="Interdisciplinary opportunity" id="6" />
+      <edge source="Software Engineer" target="Devops" id="7" />
+      <edge source="Programming Language" target="C++" id="8" />
+      <edge source="Programming Language" target="Python" id="9" />
+      <edge source="Programming Language" target="Java" id="10" />
+      <edge source="Programming Language" target="JavaScript" id="11" />
+      <edge source="Programming Language" target="Go" id="12" />
+      <edge source="Programming Language" target="Kotlin" id="13" />
+      <edge source="Programming Language" target="HTML" id="14" />
+      <edge source="Programming Language" target="CSS" id="15" />
+      <edge source="Subject Knowledge" target="Application Design" id="16" />
+      <edge source="Subject Knowledge" target="Software Development Life Cycle" id="17" />
+      <edge source="Subject Knowledge" target="Solution Development" id="18" />
+      <edge source="Subject Knowledge" target="Front-end Development" id="19" />
+      <edge source="Subject Knowledge" target="Backend-Development" id="20" />
+      <edge source="Subject Knowledge" target="REST" id="21" />
+      <edge source="Subject Knowledge" target="Agile" id="22" />
+      <edge source="Subject Knowledge" target="Data Structures" id="23" />
+      <edge source="Database  Software" target="Microsoft SQL Server" id="24" />
+      <edge source="Database  Software" target="Oracle Database" id="25" />
+      <edge source="Database  Software" target="MongoDB" id="26" />
+      <edge source="Database  Software" target="Cassandra" id="27" />
+      <edge source="Database  Software" target="Redis" id="28" />
+      <edge source="Database  Software" target="Elasticsearch" id="29" />
+      <edge source="Cloud Software" target="Azure" id="30" />
+      <edge source="Cloud Software" target="AWS" id="31" />
+      <edge source="Cloud Software" target="GCS" id="32" />
+      <edge source="Tools" target="Git" id="33" />
+      <edge source="Tools" target="Gradle" id="34" />
+      <edge source="Operating System " target="Ubuntu" id="35" />
+      <edge source="Operating System " target="Windows" id="36" />
+      <edge source="Operating System " target="MacOS" id="37" />
+      <edge source="Operating System " target="Debian" id="38" />
+      <edge source="Interdisciplinary opportunity" target="Fintech" id="39" />
+      <edge source="Interdisciplinary opportunity" target="Health" id="40" />
+      <edge source="Interdisciplinary opportunity" target="Entertainment" id="41" />
+      <edge source="Devops" target="Jenkins" id="42" />
+      <edge source="Devops" target="Kubernetes" id="43" />
+      <edge source="Devops" target="Docker" id="44" />
+      <edge source="Devops" target="Ansible" id="45" />
+      <edge source="Devops" target="Git" id="46" />
+    </edges>
+  </graph>
+</gexf>

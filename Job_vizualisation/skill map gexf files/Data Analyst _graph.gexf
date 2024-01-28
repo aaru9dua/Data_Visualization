@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Data Analyst " label="Data Analyst " />
+      <node id="Programming Language" label="Programming Language" />
+      <node id="Python" label="Python" />
+      <node id="R" label="R" />
+      <node id="SQL" label="SQL" />
+      <node id="Subject Knowledge" label="Subject Knowledge" />
+      <node id="Data Modeling" label="Data Modeling" />
+      <node id="Data Mining" label="Data Mining" />
+      <node id="Database  Software" label="Database  Software" />
+      <node id="MySQL" label="MySQL" />
+      <node id="NoSQL" label="NoSQL" />
+      <node id="Tools" label="Tools" />
+      <node id="Spark" label="Spark" />
+      <node id="Tableau" label="Tableau" />
+      <node id="Excel" label="Excel" />
+      <node id="SSRS" label="SSRS" />
+      <node id="SSIS" label="SSIS" />
+      <node id="PowerBI" label="PowerBI" />
+      <node id="CRM" label="CRM" />
+      <node id="Apache" label="Apache" />
+      <node id="Word" label="Word" />
+      <node id="Operating System Software" label="Operating System Software" />
+      <node id="Windows" label="Windows" />
+      <node id="Linux" label="Linux" />
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity" />
+      <node id="Health insurance" label="Health insurance" />
+      <node id="Data Goverance" label="Data Goverance" />
+    </nodes>
+    <edges>
+      <edge source="Data Analyst " target="Programming Language" id="0" />
+      <edge source="Data Analyst " target="Subject Knowledge" id="1" />
+      <edge source="Data Analyst " target="Database  Software" id="2" />
+      <edge source="Data Analyst " target="Tools" id="3" />
+      <edge source="Data Analyst " target="Operating System Software" id="4" />
+      <edge source="Data Analyst " target="Interdisciplinary opportunity" id="5" />
+      <edge source="Programming Language" target="Python" id="6" />
+      <edge source="Programming Language" target="R" id="7" />
+      <edge source="Programming Language" target="SQL" id="8" />
+      <edge source="Subject Knowledge" target="Data Modeling" id="9" />
+      <edge source="Subject Knowledge" target="Data Mining" id="10" />
+      <edge source="Database  Software" target="MySQL" id="11" />
+      <edge source="Database  Software" target="NoSQL" id="12" />
+      <edge source="Tools" target="Spark" id="13" />
+      <edge source="Tools" target="Tableau" id="14" />
+      <edge source="Tools" target="Excel" id="15" />
+      <edge source="Tools" target="SSRS" id="16" />
+      <edge source="Tools" target="SSIS" id="17" />
+      <edge source="Tools" target="PowerBI" id="18" />
+      <edge source="Tools" target="CRM" id="19" />
+      <edge source="Tools" target="Apache" id="20" />
+      <edge source="Tools" target="Word" id="21" />
+      <edge source="Operating System Software" target="Windows" id="22" />
+      <edge source="Operating System Software" target="Linux" id="23" />
+      <edge source="Interdisciplinary opportunity" target="Health insurance" id="24" />
+      <edge source="Interdisciplinary opportunity" target="Data Goverance" id="25" />
+    </edges>
+  </graph>
+</gexf>

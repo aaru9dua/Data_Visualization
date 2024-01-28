@@ -1,0 +1,339 @@
+,Element,Count,weightage
+0,machine learning,134,1.0
+1,python,134,1.0
+2,data science,92,0.6842105263157895
+3,it skills,43,0.3157894736842105
+4,r,43,0.3157894736842105
+5,deep learning,42,0.3082706766917293
+6,data scientist,38,0.2781954887218045
+7,cnn,30,0.21804511278195488
+8,lstm,28,0.20300751879699247
+9,data management,27,0.19548872180451127
+10,artificial intelligence,27,0.19548872180451127
+11,nlp,26,0.18796992481203006
+12,sql,25,0.18045112781954886
+13,text mining,23,0.16541353383458646
+14,data analytics,23,0.16541353383458646
+15,neural networks,22,0.15789473684210525
+16,data mining,21,0.15037593984962405
+17,pytorch,20,0.14285714285714285
+18,analytical,19,0.13533834586466165
+19,devops,18,0.12781954887218044
+20,pandas,17,0.12030075187969924
+21,azure iot,17,0.12030075187969924
+22,tensorflow,16,0.11278195488721804
+23,statistical analysis,16,0.11278195488721804
+24,predictive modeling,16,0.11278195488721804
+25,rcnns,15,0.10526315789473684
+26,tableau,15,0.10526315789473684
+27,rnn,14,0.09774436090225563
+28,cicd,14,0.09774436090225563
+29,data analysis,14,0.09774436090225563
+30,natural language processing,13,0.09022556390977443
+31,testing,13,0.09022556390977443
+32,numpy,13,0.09022556390977443
+33,azure,12,0.08270676691729323
+34,project management,12,0.08270676691729323
+35,logistic regression,11,0.07518796992481203
+36,keras,11,0.07518796992481203
+37,net core,11,0.07518796992481203
+38,cloud,10,0.06766917293233082
+39,statistical modeling,10,0.06766917293233082
+40,time series analysis,10,0.06766917293233082
+41,data modeling,10,0.06766917293233082
+42,open source,9,0.06015037593984962
+43,nltk,9,0.06015037593984962
+44,communication,9,0.06015037593984962
+45,training,9,0.06015037593984962
+46,opencv,8,0.05263157894736842
+47,computer science,8,0.05263157894736842
+48,azure cloud,8,0.05263157894736842
+49,agile,8,0.05263157894736842
+50,big data,8,0.05263157894736842
+51,aws,7,0.045112781954887216
+52,data structures,7,0.045112781954887216
+53,predictive analytics,7,0.045112781954887216
+54,statistics,7,0.045112781954887216
+55,investigation,6,0.03759398496240601
+56,enterprise applications,6,0.03759398496240601
+57,mysql,6,0.03759398496240601
+58,oracle,6,0.03759398496240601
+59,ai,6,0.03759398496240601
+60,svm,6,0.03759398496240601
+61,cloud computing,6,0.03759398496240601
+62,java,6,0.03759398496240601
+63,algorithms,5,0.03007518796992481
+64,hadoop,5,0.03007518796992481
+65,javascript,5,0.03007518796992481
+66,sas,5,0.03007518796992481
+67,software development lifecycle,5,0.03007518796992481
+68,machine - learning,5,0.03007518796992481
+69,analytics,5,0.03007518796992481
+70,data collection,5,0.03007518796992481
+71,coding,5,0.03007518796992481
+72,hive,4,0.022556390977443608
+73,model building,4,0.022556390977443608
+74,advanced analytics,4,0.022556390977443608
+75,r programming,4,0.022556390977443608
+76,factor analysis,4,0.022556390977443608
+77,image processing,4,0.022556390977443608
+78,data processing,4,0.022556390977443608
+79,computer vision,4,0.022556390977443608
+80,github,4,0.022556390977443608
+81,spark,4,0.022556390977443608
+82,scipy,4,0.022556390977443608
+83,anova,4,0.022556390977443608
+84, keras,4,0.022556390977443608
+85,random forest,4,0.022556390977443608
+86,business intelligence,4,0.022556390977443608
+87,bpo,4,0.022556390977443608
+88,forecasting,4,0.022556390977443608
+89,web analytics,4,0.022556390977443608
+90,visualization,4,0.022556390977443608
+91,sql queries,4,0.022556390977443608
+92,html,4,0.022556390977443608
+93,econometrics,4,0.022556390977443608
+94,linear regression,4,0.022556390977443608
+95,watson discovery,4,0.022556390977443608
+96,waston assitance,4,0.022556390977443608
+97,gru,3,0.015037593984962405
+98,reinforcement learning,3,0.015037593984962405
+99,bigdata,3,0.015037593984962405
+100,hdfs,3,0.015037593984962405
+101,maprdb,3,0.015037593984962405
+102, bert,3,0.015037593984962405
+103,hr,3,0.015037593984962405
+104,mining,3,0.015037593984962405
+105,unix,3,0.015037593984962405
+106,tensrflow,3,0.015037593984962405
+107,software development,3,0.015037593984962405
+108,healthcare,3,0.015037593984962405
+109, quantitative analyses,3,0.015037593984962405
+110,algorithm development,3,0.015037593984962405
+111,anomaly detection,3,0.015037593984962405
+112,oops,3,0.015037593984962405
+113,etl,3,0.015037593984962405
+114,planning,3,0.015037593984962405
+115,chaid,2,0.007518796992481203
+116,derivatives,2,0.007518796992481203
+117,time series forecasting,2,0.007518796992481203
+118,probability,2,0.007518796992481203
+119,data warehouse,2,0.007518796992481203
+120,spacy,2,0.007518796992481203
+121,data cleansing,2,0.007518796992481203
+122,jupyter,2,0.007518796992481203
+123,scrum,2,0.007518796992481203
+124,ml,2,0.007518796992481203
+125,intellectual property,2,0.007518796992481203
+126,google cloud,2,0.007518796992481203
+127,google cloud platform,2,0.007518796992481203
+128,eda,2,0.007518796992481203
+129,computer languages,2,0.007518796992481203
+130,predictive analysis,2,0.007518796992481203
+131,matplotlib,2,0.007518796992481203
+132,verbal,2,0.007518796992481203
+133,data engineering,2,0.007518796992481203
+134,teradata,2,0.007518796992481203
+135,teradata data science,2,0.007518796992481203
+136,deep learning frameworks,2,0.007518796992481203
+137,nosql,2,0.007518796992481203
+138,programming,2,0.007518796992481203
+139,adwords,2,0.007518796992481203
+140,statistical learning,2,0.007518796992481203
+141,product management,2,0.007518796992481203
+142,excel,2,0.007518796992481203
+143,php,2,0.007518796992481203
+144,big query,2,0.007518796992481203
+145,hbase,2,0.007518796992481203
+146,scala,2,0.007518796992481203
+147,model development,2,0.007518796992481203
+148,information retrieval,2,0.007518796992481203
+149,ldatopic modeling,2,0.007518796992481203
+150,e-commerce,2,0.007518796992481203
+151,algorithm,2,0.007518796992481203
+152,time series,2,0.007518796992481203
+153,regression analysis,2,0.007518796992481203
+154,forecastinf,2,0.007518796992481203
+155,ieee,2,0.007518796992481203
+156,retail analytics,2,0.007518796992481203
+157,intern,2,0.007518796992481203
+158,detection,2,0.007518796992481203
+159,operations,2,0.007518796992481203
+160,exploratory data analysis,2,0.007518796992481203
+161,ssis,2,0.007518796992481203
+162,linux,2,0.007518796992481203
+163,marketing analytics,2,0.007518796992481203
+164,multivariate analysis,2,0.007518796992481203
+165,shell scripting,2,0.007518796992481203
+166,business analytics,2,0.007518796992481203
+167,ai analytics,2,0.007518796992481203
+168,ssrs,2,0.007518796992481203
+169,c++,2,0.007518796992481203
+170,correlation,2,0.007518796992481203
+171,apache,2,0.007518796992481203
+172,grads,2,0.007518796992481203
+173,metadata,2,0.007518796992481203
+174,transfer learning,2,0.007518796992481203
+175,business services,2,0.007518796992481203
+176,scheduling,2,0.007518796992481203
+177,operations research,2,0.007518796992481203
+178,decision trees,2,0.007518796992481203
+179,ms sql,2,0.007518796992481203
+180,spotfire,1,0.0
+181,problem-solving,1,0.0
+182,mlops,1,0.0
+183,java script,1,0.0
+184,ml frameworks,1,0.0
+185,torch,1,0.0
+186,ci/cd pipeline,1,0.0
+187,analytics strategy,1,0.0
+188,r code,1,0.0
+189,technical designs,1,0.0
+190,aws textract,1,0.0
+191,sql and no sql databases,1,0.0
+192,industrial use cases,1,0.0
+193,analytical models,1,0.0
+194,adobe campaign,1,0.0
+195,pyspark,1,0.0
+196,sql server,1,0.0
+197,powerpoint,1,0.0
+198,tidyverse,1,0.0
+199,stanford-nlp,1,0.0
+200,nlp pipeline,1,0.0
+201,azure data factory,1,0.0
+202,implementing ml,1,0.0
+203,build/deplay/manage solutions,1,0.0
+204,sas programming,1,0.0
+205,etl development,1,0.0
+206,cicd methods,1,0.0
+207,business analysts,1,0.0
+208,scikit,1,0.0
+209,and sql.tensorflow,1,0.0
+210,wordnet,1,0.0
+211,lda,1,0.0
+212,prototype,1,0.0
+213,grammar,1,0.0
+214,count vectorization,1,0.0
+215,python scripting,1,0.0
+216,ocr,1,0.0
+217,naivebayes,1,0.0
+218,seaborn,1,0.0
+219,aa,1,0.0
+220,statistical algorithms,1,0.0
+221,workflow management,1,0.0
+222,infrastructure,1,0.0
+223,ibm datacap,1,0.0
+224,abby flexi capture,1,0.0
+225,automation,1,0.0
+226,vmware,1,0.0
+227,networking,1,0.0
+228,virtualization,1,0.0
+229,amazon web services,1,0.0
+230,statistical analyst,1,0.0
+231,mongodb,1,0.0
+232,data pipeline,1,0.0
+233,subject matter expert,1,0.0
+234,abby fine reader,1,0.0
+235,credit risk management,1,0.0
+236,ddl,1,0.0
+237,risk analytics,1,0.0
+238,bp,1,0.0
+239,scorecard,1,0.0
+240,bagging and boosting,1,0.0
+241,roc curve,1,0.0
+242,product engineering,1,0.0
+243, machine learning,1,0.0
+244, data management,1,0.0
+245, random forests,1,0.0
+246,nn,1,0.0
+247,lift analysis,1,0.0
+248,.,1,0.0
+249,data wrangling ,1,0.0
+250,phd,1,0.0
+251,lstms,1,0.0
+252,artificial neural networks,1,0.0
+253,payment processing,1,0.0
+254,presales,1,0.0
+255,spss,1,0.0
+256,predictive modelling,1,0.0
+257,anaconda,1,0.0
+258,causal inference,1,0.0
+259,production machine learning tools,1,0.0
+260,frequentist statistical inference,1,0.0
+261,git,1,0.0
+262,web technologies,1,0.0
+263,siemens,1,0.0
+264,data manipulation,1,0.0
+265,storm,1,0.0
+266,ci - cd,1,0.0
+267,object detection,1,0.0
+268,data extraction,1,0.0
+269,project delivery,1,0.0
+270,azure devops,1,0.0
+271,azure migration,1,0.0
+272,regression modeling,1,0.0
+273,customer service,1,0.0
+274,data,1,0.0
+275,telematics,1,0.0
+276,data visualization,1,0.0
+277,automotive,1,0.0
+278,data visualization tools,1,0.0
+279,people analytics,1,0.0
+280,performance management,1,0.0
+281,business communication,1,0.0
+282,troubleshooting,1,0.0
+283,risk management,1,0.0
+284,global marketing,1,0.0
+285,supply chain,1,0.0
+286,continuous improvement,1,0.0
+287,performance tuning,1,0.0
+288,pdf,1,0.0
+289,simulation,1,0.0
+290,data preparation,1,0.0
+291,manager quality assurance,1,0.0
+292,exploratory testing,1,0.0
+293,data structure,1,0.0
+294,assurance,1,0.0
+295,product reliability analytics,1,0.0
+296,freshers,1,0.0
+297,it services,1,0.0
+298,medical devices,1,0.0
+299,kubernetes,1,0.0
+300,cloud native,1,0.0
+301,pharma,1,0.0
+302,life sciences,1,0.0
+303,interpersonal skills,1,0.0
+304,circuit designing,1,0.0
+305,consulting,1,0.0
+306,information architecture,1,0.0
+307,usage,1,0.0
+308,accounts receivable,1,0.0
+309,financial services,1,0.0
+310,service level,1,0.0
+311,claims,1,0.0
+312,expense management,1,0.0
+313,fixed assets,1,0.0
+314,angularjs,1,0.0
+315,software testing,1,0.0
+316,modelling,1,0.0
+317,h2o,1,0.0
+318,safe agile,1,0.0
+319,factory analytics,1,0.0
+320,azure databricks,1,0.0
+321,web services,1,0.0
+322,postgresql,1,0.0
+323,data warehousing,1,0.0
+324,sdlc,1,0.0
+325,learning,1,0.0
+326,client servicing,1,0.0
+327,powerbi,1,0.0
+328,topic modeling,1,0.0
+329,application programming,1,0.0
+330,social networking,1,0.0
+331,fmcg,1,0.0
+332,recruitment,1,0.0
+333,opennlp,1,0.0
+334,pig,1,0.0
+335,sparkml,1,0.0
+336,solr,1,0.0
+337,communication skills,1,0.0

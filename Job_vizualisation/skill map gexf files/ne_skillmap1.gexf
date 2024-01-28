@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-12-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Network Engineer" label="Network Engineer">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="22.857143"/>
+        <viz:position x="10.556471" y="-78.18403"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Programming Language" label="Programming Language">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="16.428572"/>
+        <viz:position x="-238.09868" y="-512.3009"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-402.93158" y="-690.0528"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Java" label="Java">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-396.79874" y="-528.3661"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Perl" label="Perl">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-232.31169" y="-644.00946"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="Subject Knowledge" label="Subject Knowledge">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-349.77823" y="386.3378"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Networking" label="Networking">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-594.66656" y="661.5297"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Routing" label="Routing">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-473.56046" y="253.06316"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="CCNA" label="CCNA">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-237.92346" y="550.4545"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="TCP" label="TCP">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-721.17755" y="531.09814"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Network Engineering" label="Network Engineering">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-446.62073" y="754.801"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Network Operations Center" label="Network Operations Center">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-684.216" y="376.9097"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Open Systems Interconnection" label="Open Systems Interconnection">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-329.38464" y="667.9503"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="Cloud Software" label="Cloud Software">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="16.428572"/>
+        <viz:position x="-395.57812" y="-82.5274"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-645.13715" y="-145.30533"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-461.24182" y="-212.8551"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="GCP" label="GCP">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-521.5469" y="-28.69368"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="Tools" label="Tools">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="20.714287"/>
+        <viz:position x="550.0376" y="-114.41469"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Wireshark" label="Wireshark">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="749.2707" y="4.002947"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="SolarWinds" label="SolarWinds">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="839.9679" y="-122.001495"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Nmap" label="Nmap">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="777.23047" y="-355.25443"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Ansible" label="Ansible">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="897.6095" y="-236.93723"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="iperf" label="iperf">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="605.18054" y="-337.68808"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="Operating System " label="Operating System ">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="16.428572"/>
+        <viz:position x="160.20831" y="-471.79956"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Unix" label="Unix">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="299.89597" y="-532.6063"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="108.06711" y="-576.2525"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Windows" label="Windows">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="232.0327" y="-653.0469"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="Interdisciplinary opportunity" label="Interdisciplinary opportunity">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="18.57143"/>
+        <viz:position x="312.06653" y="329.43762"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="Finance" label="Finance">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="442.60822" y="468.21063"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="Health" label="Health">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="479.0306" y="273.36606"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="Government and Defense" label="Government and Defense">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="194.87277" y="456.8798"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="Legal" label="Legal">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="317.18893" y="519.58856"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Network Engineer" target="Programming Language"/>
+      <edge id="1" source="Network Engineer" target="Subject Knowledge"/>
+      <edge id="2" source="Network Engineer" target="Cloud Software"/>
+      <edge id="3" source="Network Engineer" target="Tools"/>
+      <edge id="4" source="Network Engineer" target="Operating System "/>
+      <edge id="5" source="Network Engineer" target="Interdisciplinary opportunity"/>
+      <edge id="6" source="Programming Language" target="Python"/>
+      <edge id="7" source="Programming Language" target="Java"/>
+      <edge id="8" source="Programming Language" target="Perl"/>
+      <edge id="9" source="Subject Knowledge" target="Networking"/>
+      <edge id="10" source="Subject Knowledge" target="Routing"/>
+      <edge id="11" source="Subject Knowledge" target="CCNA"/>
+      <edge id="12" source="Subject Knowledge" target="TCP"/>
+      <edge id="13" source="Subject Knowledge" target="Network Engineering"/>
+      <edge id="14" source="Subject Knowledge" target="Network Operations Center"/>
+      <edge id="15" source="Subject Knowledge" target="Open Systems Interconnection"/>
+      <edge id="16" source="Cloud Software" target="Azure"/>
+      <edge id="17" source="Cloud Software" target="AWS"/>
+      <edge id="18" source="Cloud Software" target="GCP"/>
+      <edge id="19" source="Tools" target="Wireshark"/>
+      <edge id="20" source="Tools" target="SolarWinds"/>
+      <edge id="21" source="Tools" target="Nmap"/>
+      <edge id="22" source="Tools" target="Ansible"/>
+      <edge id="23" source="Tools" target="iperf"/>
+      <edge id="24" source="Operating System " target="Unix"/>
+      <edge id="25" source="Operating System " target="Linux"/>
+      <edge id="26" source="Operating System " target="Windows"/>
+      <edge id="27" source="Interdisciplinary opportunity" target="Finance"/>
+      <edge id="28" source="Interdisciplinary opportunity" target="Health"/>
+      <edge id="29" source="Interdisciplinary opportunity" target="Government and Defense"/>
+      <edge id="30" source="Interdisciplinary opportunity" target="Legal"/>
+    </edges>
+  </graph>
+</gexf>
